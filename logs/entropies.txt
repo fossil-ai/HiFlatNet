@@ -1,0 +1,2000 @@
+Training sample 1 with entropy: 1.2798 Cargo
+Training sample 2 with entropy: 1.2709 Cargo
+Training sample 3 with entropy: 2.0081 Cargo
+Training sample 4 with entropy: 1.8401 Cargo
+Training sample 5 with entropy: 1.7927 Cargo
+Training sample 6 with entropy: 1.9075 Cargo
+Training sample 7 with entropy: 1.8064 Cargo
+Training sample 8 with entropy: 1.8440 Cargo
+Training sample 9 with entropy: 1.8343 Cargo
+Training sample 10 with entropy: 1.8678 Cargo
+Training sample 11 with entropy: 1.7942 Cargo
+Training sample 12 with entropy: 0.9249 Cargo
+Training sample 13 with entropy: 1.2093 Cargo
+Training sample 14 with entropy: 1.1694 Cargo
+Training sample 15 with entropy: 1.0450 Cargo
+Training sample 16 with entropy: 1.3050 Cargo
+Training sample 17 with entropy: 1.1332 Cargo
+Training sample 18 with entropy: 1.0358 Cargo
+Training sample 19 with entropy: 1.7376 Cargo
+Training sample 20 with entropy: 2.1852 Cargo
+Training sample 21 with entropy: 1.5475 Cargo
+Training sample 22 with entropy: 1.0628 Cargo
+Training sample 23 with entropy: 1.0897 Cargo
+Training sample 24 with entropy: 0.8800 Cargo
+Training sample 25 with entropy: 1.2583 Cargo
+Training sample 26 with entropy: 1.3459 Cargo
+Training sample 27 with entropy: 1.3372 Cargo
+Training sample 28 with entropy: 1.2696 Cargo
+Training sample 29 with entropy: 1.3561 Cargo
+Training sample 30 with entropy: 1.4205 Cargo
+Training sample 31 with entropy: 1.2332 Cargo
+Training sample 32 with entropy: 0.9842 Cargo
+Training sample 33 with entropy: 1.1407 Cargo
+Training sample 34 with entropy: 1.2802 Cargo
+Training sample 35 with entropy: 1.1838 Cargo
+Training sample 36 with entropy: 1.3585 Cargo
+Training sample 37 with entropy: 1.2751 Cargo
+Training sample 38 with entropy: 1.2870 Cargo
+Training sample 39 with entropy: 1.1289 Cargo
+Training sample 40 with entropy: 1.1389 Cargo
+Training sample 41 with entropy: 1.2565 Cargo
+Training sample 42 with entropy: 1.3982 Cargo
+Training sample 43 with entropy: 1.1975 Cargo
+Training sample 44 with entropy: 1.2264 Cargo
+Training sample 45 with entropy: 1.5043 Cargo
+Training sample 46 with entropy: 1.0526 Cargo
+Training sample 47 with entropy: 1.1910 Cargo
+Training sample 48 with entropy: 1.4265 Cargo
+Training sample 49 with entropy: 1.3754 Cargo
+Training sample 50 with entropy: 1.1968 Cargo
+Training sample 51 with entropy: 1.1391 Cargo
+Training sample 52 with entropy: 1.6726 Cargo
+Training sample 53 with entropy: 1.2472 Cargo
+Training sample 54 with entropy: 1.2099 Cargo
+Training sample 55 with entropy: 1.2246 Cargo
+Training sample 56 with entropy: 1.4752 Cargo
+Training sample 57 with entropy: 1.8365 Cargo
+Training sample 58 with entropy: 1.8459 Cargo
+Training sample 59 with entropy: 1.8004 Cargo
+Training sample 60 with entropy: 1.7193 Cargo
+Training sample 61 with entropy: 1.3497 Cargo
+Training sample 62 with entropy: 1.1602 Cargo
+Training sample 63 with entropy: 1.2606 Cargo
+Training sample 64 with entropy: 1.1550 Cargo
+Training sample 65 with entropy: 0.8138 Cargo
+Training sample 66 with entropy: 0.9865 Cargo
+Training sample 67 with entropy: 1.6271 Cargo
+Training sample 68 with entropy: 1.1505 Cargo
+Training sample 69 with entropy: 2.0334 Cargo
+Training sample 70 with entropy: 1.9668 Cargo
+Training sample 71 with entropy: 1.5526 Cargo
+Training sample 72 with entropy: 1.7564 Cargo
+Training sample 73 with entropy: 0.6945 Cargo
+Training sample 74 with entropy: 1.8589 Cargo
+Training sample 75 with entropy: 1.9353 Cargo
+Training sample 76 with entropy: 1.9149 Cargo
+Training sample 77 with entropy: 1.9581 Cargo
+Training sample 78 with entropy: 1.7700 Cargo
+Training sample 79 with entropy: 1.8352 Cargo
+Training sample 80 with entropy: 1.8480 Cargo
+Training sample 81 with entropy: 1.6876 Cargo
+Training sample 82 with entropy: 1.1701 Cargo
+Training sample 83 with entropy: 1.1650 Cargo
+Training sample 84 with entropy: 1.1446 Cargo
+Training sample 85 with entropy: 1.2164 Cargo
+Training sample 86 with entropy: 1.2136 Cargo
+Training sample 87 with entropy: 1.2257 Cargo
+Training sample 88 with entropy: 1.1694 Cargo
+Training sample 89 with entropy: 1.1628 Cargo
+Training sample 90 with entropy: 1.9623 Cargo
+Training sample 91 with entropy: 2.0118 Cargo
+Training sample 92 with entropy: 1.8036 Cargo
+Training sample 93 with entropy: 1.3703 Cargo
+Training sample 94 with entropy: 1.3548 Cargo
+Training sample 95 with entropy: 1.2400 Cargo
+Training sample 96 with entropy: 1.3120 Cargo
+Training sample 97 with entropy: 1.1925 Cargo
+Training sample 98 with entropy: 1.3056 Cargo
+Training sample 99 with entropy: 1.1285 Cargo
+Training sample 100 with entropy: 1.1855 Cargo
+Training sample 101 with entropy: 0.9960 Cargo
+Training sample 102 with entropy: 1.2070 Cargo
+Training sample 103 with entropy: 1.2621 Cargo
+Training sample 104 with entropy: 1.1982 Cargo
+Training sample 105 with entropy: 1.1946 Cargo
+Training sample 106 with entropy: 1.9342 Cargo
+Training sample 107 with entropy: 1.2514 Cargo
+Training sample 108 with entropy: 1.2177 Cargo
+Training sample 109 with entropy: 2.0157 Cargo
+Training sample 110 with entropy: 1.4565 Cargo
+Training sample 111 with entropy: 1.4314 Cargo
+Training sample 112 with entropy: 1.3918 Cargo
+Training sample 113 with entropy: 1.1303 Cargo
+Training sample 114 with entropy: 1.1069 Cargo
+Training sample 115 with entropy: 1.2372 Cargo
+Training sample 116 with entropy: 1.4807 Cargo
+Training sample 117 with entropy: 1.4649 Cargo
+Training sample 118 with entropy: 1.3534 Cargo
+Training sample 119 with entropy: 1.1543 Cargo
+Training sample 120 with entropy: 1.6556 Cargo
+Training sample 121 with entropy: 1.7789 Cargo
+Training sample 122 with entropy: 1.7756 Cargo
+Training sample 123 with entropy: 1.8918 Cargo
+Training sample 124 with entropy: 1.9088 Cargo
+Training sample 125 with entropy: 1.7505 Cargo
+Training sample 126 with entropy: 1.8235 Cargo
+Training sample 127 with entropy: 1.1959 Cargo
+Training sample 128 with entropy: 1.7635 Cargo
+Training sample 129 with entropy: 1.9189 Cargo
+Training sample 130 with entropy: 1.9708 Cargo
+Training sample 131 with entropy: 1.8842 Cargo
+Training sample 132 with entropy: 1.8902 Cargo
+Training sample 133 with entropy: 1.8634 Cargo
+Training sample 134 with entropy: 1.9800 Cargo
+Training sample 135 with entropy: 1.7702 Cargo
+Training sample 136 with entropy: 1.8675 Cargo
+Training sample 137 with entropy: 1.7308 Cargo
+Training sample 138 with entropy: 1.8290 Cargo
+Training sample 139 with entropy: 1.2209 Cargo
+Training sample 140 with entropy: 1.1814 Cargo
+Training sample 141 with entropy: 1.3538 Cargo
+Training sample 142 with entropy: 1.2646 Cargo
+Training sample 143 with entropy: 1.3243 Cargo
+Training sample 144 with entropy: 1.3024 Cargo
+Training sample 145 with entropy: 1.3742 Cargo
+Training sample 146 with entropy: 1.2648 Cargo
+Training sample 147 with entropy: 1.3351 Cargo
+Training sample 148 with entropy: 1.5445 Cargo
+Training sample 149 with entropy: 1.4791 Cargo
+Training sample 150 with entropy: 1.4680 Cargo
+Training sample 151 with entropy: 1.5764 Cargo
+Training sample 152 with entropy: 1.0268 Cargo
+Training sample 153 with entropy: 1.0015 Cargo
+Training sample 154 with entropy: 1.0455 Cargo
+Training sample 155 with entropy: 0.8264 Cargo
+Training sample 156 with entropy: 1.2637 Cargo
+Training sample 157 with entropy: 1.1404 Cargo
+Training sample 158 with entropy: 1.2277 Cargo
+Training sample 159 with entropy: 1.1875 Cargo
+Training sample 160 with entropy: 1.2181 Cargo
+Training sample 161 with entropy: 1.2053 Cargo
+Training sample 162 with entropy: 1.1911 Cargo
+Training sample 163 with entropy: 1.1852 Cargo
+Training sample 164 with entropy: 1.1470 Cargo
+Training sample 165 with entropy: 1.2045 Cargo
+Training sample 166 with entropy: 1.3948 Cargo
+Training sample 167 with entropy: 1.1902 Cargo
+Training sample 168 with entropy: 1.5972 Cargo
+Training sample 169 with entropy: 1.4256 Cargo
+Training sample 170 with entropy: 1.9528 Cargo
+Training sample 171 with entropy: 1.8883 Cargo
+Training sample 172 with entropy: 1.7083 Cargo
+Training sample 173 with entropy: 1.6672 Cargo
+Training sample 174 with entropy: 1.8465 Cargo
+Training sample 175 with entropy: 1.9649 Cargo
+Training sample 176 with entropy: 1.8427 Cargo
+Training sample 177 with entropy: 1.8581 Cargo
+Training sample 178 with entropy: 1.7747 Cargo
+Training sample 179 with entropy: 1.7447 Cargo
+Training sample 180 with entropy: 1.8392 Cargo
+Training sample 181 with entropy: 1.4878 Coast Guard Response Boat
+Training sample 182 with entropy: 0.8532 Coast Guard Response Boat
+Training sample 183 with entropy: 0.7481 Coast Guard Response Boat
+Training sample 184 with entropy: 0.1649 Coast Guard Response Boat
+Training sample 185 with entropy: 0.5991 Coast Guard Response Boat
+Training sample 186 with entropy: 2.0005 Coast Guard Response Boat
+Training sample 187 with entropy: 1.7352 Coast Guard Response Boat
+Training sample 188 with entropy: 0.3658 Coast Guard Response Boat
+Training sample 189 with entropy: 1.2731 Coast Guard Response Boat
+Training sample 190 with entropy: 0.1382 Coast Guard Response Boat
+Training sample 191 with entropy: 0.0524 Coast Guard Response Boat
+Training sample 192 with entropy: 0.0587 Coast Guard Response Boat
+Training sample 193 with entropy: 0.0711 Coast Guard Response Boat
+Training sample 194 with entropy: 0.4129 Coast Guard Response Boat
+Training sample 195 with entropy: 0.1174 Coast Guard Response Boat
+Training sample 196 with entropy: 0.1836 Coast Guard Response Boat
+Training sample 197 with entropy: 0.0474 Coast Guard Response Boat
+Training sample 198 with entropy: 0.9694 Coast Guard Response Boat
+Training sample 199 with entropy: 1.0352 Coast Guard Response Boat
+Training sample 200 with entropy: 1.4481 Coast Guard Response Boat
+Training sample 201 with entropy: 1.7145 Coast Guard Response Boat
+Training sample 202 with entropy: 1.4211 Coast Guard Response Boat
+Training sample 203 with entropy: 0.6863 Coast Guard Response Boat
+Training sample 204 with entropy: 0.0722 Coast Guard Response Boat
+Training sample 205 with entropy: 1.9308 Coast Guard Response Boat
+Training sample 206 with entropy: 0.4302 Coast Guard Response Boat
+Training sample 207 with entropy: 0.5069 Coast Guard Response Boat
+Training sample 208 with entropy: 0.4811 Coast Guard Response Boat
+Training sample 209 with entropy: 0.2221 Coast Guard Response Boat
+Training sample 210 with entropy: 0.1557 Coast Guard Response Boat
+Training sample 211 with entropy: 0.4411 Coast Guard Response Boat
+Training sample 212 with entropy: 0.5696 Coast Guard Response Boat
+Training sample 213 with entropy: 0.2326 Coast Guard Response Boat
+Training sample 214 with entropy: 1.3857 Coast Guard Response Boat
+Training sample 215 with entropy: 1.0142 Coast Guard Response Boat
+Training sample 216 with entropy: 1.9372 Coast Guard Response Boat
+Training sample 217 with entropy: 1.1434 Coast Guard Response Boat
+Training sample 218 with entropy: 1.3501 Coast Guard Response Boat
+Training sample 219 with entropy: 0.6997 Coast Guard Response Boat
+Training sample 220 with entropy: 0.4011 Coast Guard Response Boat
+Training sample 221 with entropy: 1.8911 Coast Guard Response Boat
+Training sample 222 with entropy: 1.7946 Coast Guard Response Boat
+Training sample 223 with entropy: 1.4499 Coast Guard Response Boat
+Training sample 224 with entropy: 2.1208 Coast Guard Response Boat
+Training sample 225 with entropy: 1.5067 Coast Guard Response Boat
+Training sample 226 with entropy: 0.7722 Coast Guard Response Boat
+Training sample 227 with entropy: 0.3890 Coast Guard Response Boat
+Training sample 228 with entropy: 0.3424 Coast Guard Response Boat
+Training sample 229 with entropy: 1.9648 Coast Guard Response Boat
+Training sample 230 with entropy: 2.0188 Coast Guard Response Boat
+Training sample 231 with entropy: 1.2815 Coast Guard Response Boat
+Training sample 232 with entropy: 1.1922 Coast Guard Response Boat
+Training sample 233 with entropy: 1.2337 Coast Guard Response Boat
+Training sample 234 with entropy: 1.6457 Coast Guard Response Boat
+Training sample 235 with entropy: 0.4452 Coast Guard Response Boat
+Training sample 236 with entropy: 0.4412 Coast Guard Response Boat
+Training sample 237 with entropy: 0.6903 Coast Guard Response Boat
+Training sample 238 with entropy: 0.2207 Coast Guard Response Boat
+Training sample 239 with entropy: 0.3493 Coast Guard Response Boat
+Training sample 240 with entropy: 0.4741 Coast Guard Response Boat
+Training sample 241 with entropy: 1.3355 Coast Guard Response Boat
+Training sample 242 with entropy: 1.7205 Coast Guard Response Boat
+Training sample 243 with entropy: 1.1087 Coast Guard Response Boat
+Training sample 244 with entropy: 0.6680 Coast Guard Response Boat
+Training sample 245 with entropy: 1.1161 Coast Guard Response Boat
+Training sample 246 with entropy: 0.1597 Coast Guard Response Boat
+Training sample 247 with entropy: 0.2819 Coast Guard Response Boat
+Training sample 248 with entropy: 1.2732 Coast Guard Response Boat
+Training sample 249 with entropy: 0.9763 Coast Guard Response Boat
+Training sample 250 with entropy: 0.2490 Coast Guard Response Boat
+Training sample 251 with entropy: 0.1039 Coast Guard Response Boat
+Training sample 252 with entropy: 0.2062 Coast Guard Response Boat
+Training sample 253 with entropy: 0.1948 Coast Guard Response Boat
+Training sample 254 with entropy: 0.4291 Coast Guard Response Boat
+Training sample 255 with entropy: 0.3482 Coast Guard Response Boat
+Training sample 256 with entropy: 0.9664 Coast Guard Response Boat
+Training sample 257 with entropy: 1.3838 Coast Guard Response Boat
+Training sample 258 with entropy: 0.4885 Coast Guard Response Boat
+Training sample 259 with entropy: 0.2645 Coast Guard Response Boat
+Training sample 260 with entropy: 0.8367 Coast Guard Response Boat
+Training sample 261 with entropy: 0.9712 Coast Guard Response Boat
+Training sample 262 with entropy: 1.8371 Coast Guard Response Boat
+Training sample 263 with entropy: 1.2357 Coast Guard Response Boat
+Training sample 264 with entropy: 0.0612 Coast Guard Response Boat
+Training sample 265 with entropy: 0.4089 Coast Guard Response Boat
+Training sample 266 with entropy: 0.9877 Coast Guard Response Boat
+Training sample 267 with entropy: 0.6679 Coast Guard Response Boat
+Training sample 268 with entropy: 0.4268 Coast Guard Response Boat
+Training sample 269 with entropy: 0.6782 Coast Guard Response Boat
+Training sample 270 with entropy: 0.4196 Coast Guard Response Boat
+Training sample 271 with entropy: 0.3597 Coast Guard Response Boat
+Training sample 272 with entropy: 0.9117 Coast Guard Response Boat
+Training sample 273 with entropy: 0.3053 Coast Guard Response Boat
+Training sample 274 with entropy: 0.1239 Coast Guard Response Boat
+Training sample 275 with entropy: 0.2380 Coast Guard Response Boat
+Training sample 276 with entropy: 0.3481 Coast Guard Response Boat
+Training sample 277 with entropy: 0.6651 Coast Guard Response Boat
+Training sample 278 with entropy: 0.1107 Coast Guard Response Boat
+Training sample 279 with entropy: 0.4272 Coast Guard Response Boat
+Training sample 280 with entropy: 0.1629 Coast Guard Response Boat
+Training sample 281 with entropy: 0.4748 Coast Guard Response Boat
+Training sample 282 with entropy: 0.4302 Coast Guard Response Boat
+Training sample 283 with entropy: 0.0696 Coast Guard Response Boat
+Training sample 284 with entropy: 0.3157 Coast Guard Response Boat
+Training sample 285 with entropy: 0.8958 Coast Guard Response Boat
+Training sample 286 with entropy: 2.1557 Coast Guard Response Boat
+Training sample 287 with entropy: 2.1191 Coast Guard Response Boat
+Training sample 288 with entropy: 1.7937 Coast Guard Response Boat
+Training sample 289 with entropy: 1.7480 Coast Guard Response Boat
+Training sample 290 with entropy: 1.9651 Coast Guard Response Boat
+Training sample 291 with entropy: 2.1444 Coast Guard Response Boat
+Training sample 292 with entropy: 1.2913 Coast Guard Response Boat
+Training sample 293 with entropy: 2.0082 Coast Guard Response Boat
+Training sample 294 with entropy: 2.0632 Coast Guard Response Boat
+Training sample 295 with entropy: 2.2500 Coast Guard Response Boat
+Training sample 296 with entropy: 0.6827 Coast Guard Response Boat
+Training sample 297 with entropy: 0.4896 Coast Guard Response Boat
+Training sample 298 with entropy: 0.8629 Coast Guard Response Boat
+Training sample 299 with entropy: 1.1182 Coast Guard Response Boat
+Training sample 300 with entropy: 0.2583 Coast Guard Response Boat
+Training sample 301 with entropy: 0.6393 Coast Guard Response Boat
+Training sample 302 with entropy: 0.1367 Coast Guard Response Boat
+Training sample 303 with entropy: 0.1724 Coast Guard Response Boat
+Training sample 304 with entropy: 0.1048 Coast Guard Response Boat
+Training sample 305 with entropy: 0.2398 Coast Guard Response Boat
+Training sample 306 with entropy: 0.1930 Coast Guard Response Boat
+Training sample 307 with entropy: 0.7976 Coast Guard Response Boat
+Training sample 308 with entropy: 0.5211 Coast Guard Response Boat
+Training sample 309 with entropy: 1.4282 Coast Guard Response Boat
+Training sample 310 with entropy: 1.0270 Coast Guard Response Boat
+Training sample 311 with entropy: 1.3581 Coast Guard Response Boat
+Training sample 312 with entropy: 0.3680 Coast Guard Response Boat
+Training sample 313 with entropy: 1.1151 Coast Guard Response Boat
+Training sample 314 with entropy: 1.4030 Coast Guard Response Boat
+Training sample 315 with entropy: 0.5663 Coast Guard Response Boat
+Training sample 316 with entropy: 0.1061 Coast Guard Response Boat
+Training sample 317 with entropy: 0.4829 Coast Guard Response Boat
+Training sample 318 with entropy: 0.2702 Coast Guard Response Boat
+Training sample 319 with entropy: 0.1939 Coast Guard Response Boat
+Training sample 320 with entropy: 0.3702 Coast Guard Response Boat
+Training sample 321 with entropy: 0.0770 Coast Guard Response Boat
+Training sample 322 with entropy: 0.0425 Coast Guard Response Boat
+Training sample 323 with entropy: 0.0794 Coast Guard Response Boat
+Training sample 324 with entropy: 0.1377 Coast Guard Response Boat
+Training sample 325 with entropy: 0.1684 Coast Guard Response Boat
+Training sample 326 with entropy: 0.2616 Coast Guard Response Boat
+Training sample 327 with entropy: 0.1816 Coast Guard Response Boat
+Training sample 328 with entropy: 1.2128 Coast Guard Response Boat
+Training sample 329 with entropy: 1.2277 Coast Guard Response Boat
+Training sample 330 with entropy: 0.5799 Coast Guard Response Boat
+Training sample 331 with entropy: 0.5788 Coast Guard Response Boat
+Training sample 332 with entropy: 0.5460 Coast Guard Response Boat
+Training sample 333 with entropy: 0.1811 Coast Guard Response Boat
+Training sample 334 with entropy: 0.0478 Coast Guard Response Boat
+Training sample 335 with entropy: 0.0593 Coast Guard Response Boat
+Training sample 336 with entropy: 1.1561 Coast Guard Response Boat
+Training sample 337 with entropy: 1.6449 Coast Guard Response Boat
+Training sample 338 with entropy: 0.6735 Coast Guard Response Boat
+Training sample 339 with entropy: 0.4475 Coast Guard Response Boat
+Training sample 340 with entropy: 0.9083 Coast Guard Response Boat
+Training sample 341 with entropy: 0.8293 Coast Guard Response Boat
+Training sample 342 with entropy: 0.5190 Coast Guard Response Boat
+Training sample 343 with entropy: 0.3174 Coast Guard Response Boat
+Training sample 344 with entropy: 0.3221 Coast Guard Response Boat
+Training sample 345 with entropy: 0.3923 Coast Guard Response Boat
+Training sample 346 with entropy: 0.3624 Coast Guard Response Boat
+Training sample 347 with entropy: 0.3788 Coast Guard Response Boat
+Training sample 348 with entropy: 0.1210 Coast Guard Response Boat
+Training sample 349 with entropy: 0.7087 Coast Guard Response Boat
+Training sample 350 with entropy: 0.5679 Coast Guard Response Boat
+Training sample 351 with entropy: 0.2863 Coast Guard Response Boat
+Training sample 352 with entropy: 0.9359 Coast Guard Response Boat
+Training sample 353 with entropy: 1.0936 Coast Guard Response Boat
+Training sample 354 with entropy: 0.6320 Coast Guard Response Boat
+Training sample 355 with entropy: 0.2379 Coast Guard Response Boat
+Training sample 356 with entropy: 0.1437 Coast Guard Response Boat
+Training sample 357 with entropy: 0.1905 Coast Guard Response Boat
+Training sample 358 with entropy: 0.3866 Coast Guard Response Boat
+Training sample 359 with entropy: 0.2693 Coast Guard Response Boat
+Training sample 360 with entropy: 0.2258 Coast Guard Response Boat
+Training sample 361 with entropy: 1.4016 Commercial Shipping Vessel
+Training sample 362 with entropy: 1.1635 Commercial Shipping Vessel
+Training sample 363 with entropy: 1.9335 Commercial Shipping Vessel
+Training sample 364 with entropy: 0.6459 Commercial Shipping Vessel
+Training sample 365 with entropy: 0.7680 Commercial Shipping Vessel
+Training sample 366 with entropy: 0.7615 Commercial Shipping Vessel
+Training sample 367 with entropy: 1.9369 Commercial Shipping Vessel
+Training sample 368 with entropy: 1.9587 Commercial Shipping Vessel
+Training sample 369 with entropy: 2.0981 Commercial Shipping Vessel
+Training sample 370 with entropy: 1.3738 Commercial Shipping Vessel
+Training sample 371 with entropy: 2.0348 Commercial Shipping Vessel
+Training sample 372 with entropy: 1.3978 Commercial Shipping Vessel
+Training sample 373 with entropy: 1.4969 Commercial Shipping Vessel
+Training sample 374 with entropy: 1.1256 Commercial Shipping Vessel
+Training sample 375 with entropy: 2.1486 Commercial Shipping Vessel
+Training sample 376 with entropy: 1.8053 Commercial Shipping Vessel
+Training sample 377 with entropy: 2.0455 Commercial Shipping Vessel
+Training sample 378 with entropy: 0.3308 Commercial Shipping Vessel
+Training sample 379 with entropy: 1.6628 Commercial Shipping Vessel
+Training sample 380 with entropy: 1.6551 Commercial Shipping Vessel
+Training sample 381 with entropy: 1.7335 Commercial Shipping Vessel
+Training sample 382 with entropy: 1.5407 Commercial Shipping Vessel
+Training sample 383 with entropy: 1.6584 Commercial Shipping Vessel
+Training sample 384 with entropy: 2.0926 Commercial Shipping Vessel
+Training sample 385 with entropy: 1.6891 Commercial Shipping Vessel
+Training sample 386 with entropy: 1.9725 Commercial Shipping Vessel
+Training sample 387 with entropy: 1.6190 Commercial Shipping Vessel
+Training sample 388 with entropy: 1.7167 Commercial Shipping Vessel
+Training sample 389 with entropy: 1.5091 Commercial Shipping Vessel
+Training sample 390 with entropy: 1.6143 Commercial Shipping Vessel
+Training sample 391 with entropy: 0.8874 Commercial Shipping Vessel
+Training sample 392 with entropy: 1.3237 Commercial Shipping Vessel
+Training sample 393 with entropy: 1.6853 Commercial Shipping Vessel
+Training sample 394 with entropy: 1.2886 Commercial Shipping Vessel
+Training sample 395 with entropy: 1.8866 Commercial Shipping Vessel
+Training sample 396 with entropy: 1.3697 Commercial Shipping Vessel
+Training sample 397 with entropy: 1.1798 Commercial Shipping Vessel
+Training sample 398 with entropy: 1.0959 Commercial Shipping Vessel
+Training sample 399 with entropy: 2.0016 Commercial Shipping Vessel
+Training sample 400 with entropy: 1.2290 Commercial Shipping Vessel
+Training sample 401 with entropy: 1.4332 Commercial Shipping Vessel
+Training sample 402 with entropy: 1.5600 Commercial Shipping Vessel
+Training sample 403 with entropy: 1.3309 Commercial Shipping Vessel
+Training sample 404 with entropy: 1.2193 Commercial Shipping Vessel
+Training sample 405 with entropy: 1.1262 Commercial Shipping Vessel
+Training sample 406 with entropy: 1.5785 Commercial Shipping Vessel
+Training sample 407 with entropy: 1.7766 Commercial Shipping Vessel
+Training sample 408 with entropy: 1.1656 Commercial Shipping Vessel
+Training sample 409 with entropy: 1.7306 Commercial Shipping Vessel
+Training sample 410 with entropy: 1.9500 Commercial Shipping Vessel
+Training sample 411 with entropy: 1.2117 Commercial Shipping Vessel
+Training sample 412 with entropy: 1.4754 Commercial Shipping Vessel
+Training sample 413 with entropy: 1.8342 Commercial Shipping Vessel
+Training sample 414 with entropy: 1.9924 Commercial Shipping Vessel
+Training sample 415 with entropy: 1.8181 Commercial Shipping Vessel
+Training sample 416 with entropy: 1.5152 Commercial Shipping Vessel
+Training sample 417 with entropy: 1.3593 Commercial Shipping Vessel
+Training sample 418 with entropy: 1.8366 Commercial Shipping Vessel
+Training sample 419 with entropy: 1.8435 Commercial Shipping Vessel
+Training sample 420 with entropy: 2.0286 Commercial Shipping Vessel
+Training sample 421 with entropy: 1.6555 Commercial Shipping Vessel
+Training sample 422 with entropy: 2.1288 Commercial Shipping Vessel
+Training sample 423 with entropy: 1.9516 Commercial Shipping Vessel
+Training sample 424 with entropy: 1.9241 Commercial Shipping Vessel
+Training sample 425 with entropy: 1.7986 Commercial Shipping Vessel
+Training sample 426 with entropy: 1.4174 Commercial Shipping Vessel
+Training sample 427 with entropy: 0.5602 Commercial Shipping Vessel
+Training sample 428 with entropy: 0.3635 Commercial Shipping Vessel
+Training sample 429 with entropy: 1.7958 Commercial Shipping Vessel
+Training sample 430 with entropy: 2.0623 Commercial Shipping Vessel
+Training sample 431 with entropy: 2.1246 Commercial Shipping Vessel
+Training sample 432 with entropy: 0.9362 Commercial Shipping Vessel
+Training sample 433 with entropy: 1.7015 Commercial Shipping Vessel
+Training sample 434 with entropy: 1.2451 Commercial Shipping Vessel
+Training sample 435 with entropy: 0.7740 Commercial Shipping Vessel
+Training sample 436 with entropy: 1.8256 Commercial Shipping Vessel
+Training sample 437 with entropy: 2.0208 Commercial Shipping Vessel
+Training sample 438 with entropy: 1.5215 Commercial Shipping Vessel
+Training sample 439 with entropy: 2.0232 Commercial Shipping Vessel
+Training sample 440 with entropy: 1.5449 Commercial Shipping Vessel
+Training sample 441 with entropy: 2.1161 Commercial Shipping Vessel
+Training sample 442 with entropy: 1.4142 Commercial Shipping Vessel
+Training sample 443 with entropy: 0.7655 Commercial Shipping Vessel
+Training sample 444 with entropy: 1.6477 Commercial Shipping Vessel
+Training sample 445 with entropy: 1.8292 Commercial Shipping Vessel
+Training sample 446 with entropy: 1.4776 Commercial Shipping Vessel
+Training sample 447 with entropy: 1.6880 Commercial Shipping Vessel
+Training sample 448 with entropy: 1.2403 Commercial Shipping Vessel
+Training sample 449 with entropy: 1.9418 Commercial Shipping Vessel
+Training sample 450 with entropy: 1.7050 Commercial Shipping Vessel
+Training sample 451 with entropy: 1.1669 Commercial Shipping Vessel
+Training sample 452 with entropy: 1.8927 Commercial Shipping Vessel
+Training sample 453 with entropy: 1.8335 Commercial Shipping Vessel
+Training sample 454 with entropy: 1.0208 Commercial Shipping Vessel
+Training sample 455 with entropy: 1.2230 Commercial Shipping Vessel
+Training sample 456 with entropy: 1.5377 Commercial Shipping Vessel
+Training sample 457 with entropy: 1.6506 Commercial Shipping Vessel
+Training sample 458 with entropy: 1.6513 Commercial Shipping Vessel
+Training sample 459 with entropy: 1.3554 Commercial Shipping Vessel
+Training sample 460 with entropy: 1.5266 Commercial Shipping Vessel
+Training sample 461 with entropy: 1.2668 Commercial Shipping Vessel
+Training sample 462 with entropy: 1.7009 Commercial Shipping Vessel
+Training sample 463 with entropy: 1.4025 Commercial Shipping Vessel
+Training sample 464 with entropy: 1.0528 Commercial Shipping Vessel
+Training sample 465 with entropy: 1.1928 Commercial Shipping Vessel
+Training sample 466 with entropy: 1.8862 Commercial Shipping Vessel
+Training sample 467 with entropy: 0.6762 Commercial Shipping Vessel
+Training sample 468 with entropy: 1.4604 Commercial Shipping Vessel
+Training sample 469 with entropy: 2.0871 Commercial Shipping Vessel
+Training sample 470 with entropy: 1.7980 Commercial Shipping Vessel
+Training sample 471 with entropy: 1.1873 Commercial Shipping Vessel
+Training sample 472 with entropy: 1.3500 Commercial Shipping Vessel
+Training sample 473 with entropy: 0.6288 Commercial Shipping Vessel
+Training sample 474 with entropy: 0.9391 Commercial Shipping Vessel
+Training sample 475 with entropy: 1.1806 Commercial Shipping Vessel
+Training sample 476 with entropy: 1.1938 Commercial Shipping Vessel
+Training sample 477 with entropy: 1.7001 Commercial Shipping Vessel
+Training sample 478 with entropy: 0.8533 Commercial Shipping Vessel
+Training sample 479 with entropy: 1.3656 Commercial Shipping Vessel
+Training sample 480 with entropy: 1.1572 Commercial Shipping Vessel
+Training sample 481 with entropy: 1.2658 Commercial Shipping Vessel
+Training sample 482 with entropy: 1.5863 Commercial Shipping Vessel
+Training sample 483 with entropy: 1.7834 Commercial Shipping Vessel
+Training sample 484 with entropy: 1.1748 Commercial Shipping Vessel
+Training sample 485 with entropy: 1.9460 Commercial Shipping Vessel
+Training sample 486 with entropy: 1.3785 Commercial Shipping Vessel
+Training sample 487 with entropy: 1.1639 Commercial Shipping Vessel
+Training sample 488 with entropy: 1.9605 Commercial Shipping Vessel
+Training sample 489 with entropy: 1.2699 Commercial Shipping Vessel
+Training sample 490 with entropy: 1.7681 Commercial Shipping Vessel
+Training sample 491 with entropy: 1.4725 Commercial Shipping Vessel
+Training sample 492 with entropy: 2.0477 Commercial Shipping Vessel
+Training sample 493 with entropy: 1.8721 Commercial Shipping Vessel
+Training sample 494 with entropy: 1.8852 Commercial Shipping Vessel
+Training sample 495 with entropy: 1.5282 Commercial Shipping Vessel
+Training sample 496 with entropy: 1.5384 Commercial Shipping Vessel
+Training sample 497 with entropy: 1.4232 Commercial Shipping Vessel
+Training sample 498 with entropy: 1.2808 Commercial Shipping Vessel
+Training sample 499 with entropy: 1.8754 Commercial Shipping Vessel
+Training sample 500 with entropy: 1.5937 Commercial Shipping Vessel
+Training sample 501 with entropy: 1.6273 Commercial Shipping Vessel
+Training sample 502 with entropy: 2.0864 Commercial Shipping Vessel
+Training sample 503 with entropy: 1.7161 Commercial Shipping Vessel
+Training sample 504 with entropy: 0.5567 Commercial Shipping Vessel
+Training sample 505 with entropy: 0.3733 Commercial Shipping Vessel
+Training sample 506 with entropy: 0.4105 Commercial Shipping Vessel
+Training sample 507 with entropy: 0.5606 Commercial Shipping Vessel
+Training sample 508 with entropy: 1.1788 Commercial Shipping Vessel
+Training sample 509 with entropy: 0.7419 Commercial Shipping Vessel
+Training sample 510 with entropy: 1.3221 Commercial Shipping Vessel
+Training sample 511 with entropy: 0.7869 Commercial Shipping Vessel
+Training sample 512 with entropy: 2.0847 Commercial Shipping Vessel
+Training sample 513 with entropy: 2.0130 Commercial Shipping Vessel
+Training sample 514 with entropy: 1.8247 Commercial Shipping Vessel
+Training sample 515 with entropy: 0.2422 Commercial Shipping Vessel
+Training sample 516 with entropy: 1.3880 Commercial Shipping Vessel
+Training sample 517 with entropy: 1.5086 Commercial Shipping Vessel
+Training sample 518 with entropy: 1.4035 Commercial Shipping Vessel
+Training sample 519 with entropy: 1.4630 Commercial Shipping Vessel
+Training sample 520 with entropy: 1.9574 Commercial Shipping Vessel
+Training sample 521 with entropy: 1.4261 Commercial Shipping Vessel
+Training sample 522 with entropy: 0.7403 Commercial Shipping Vessel
+Training sample 523 with entropy: 1.3235 Commercial Shipping Vessel
+Training sample 524 with entropy: 0.9551 Commercial Shipping Vessel
+Training sample 525 with entropy: 0.9772 Commercial Shipping Vessel
+Training sample 526 with entropy: 0.7525 Commercial Shipping Vessel
+Training sample 527 with entropy: 1.2679 Commercial Shipping Vessel
+Training sample 528 with entropy: 1.7959 Commercial Shipping Vessel
+Training sample 529 with entropy: 1.8420 Commercial Shipping Vessel
+Training sample 530 with entropy: 1.9275 Commercial Shipping Vessel
+Training sample 531 with entropy: 2.0943 Commercial Shipping Vessel
+Training sample 532 with entropy: 1.5968 Commercial Shipping Vessel
+Training sample 533 with entropy: 0.7157 Commercial Shipping Vessel
+Training sample 534 with entropy: 1.0728 Commercial Shipping Vessel
+Training sample 535 with entropy: 0.7126 Commercial Shipping Vessel
+Training sample 536 with entropy: 1.9782 Commercial Shipping Vessel
+Training sample 537 with entropy: 1.3030 Commercial Shipping Vessel
+Training sample 538 with entropy: 1.8171 Commercial Shipping Vessel
+Training sample 539 with entropy: 0.4820 Commercial Shipping Vessel
+Training sample 540 with entropy: 1.4572 Commercial Shipping Vessel
+Training sample 541 with entropy: 0.0943 Destroyer
+Training sample 542 with entropy: 0.1650 Destroyer
+Training sample 543 with entropy: 0.1794 Destroyer
+Training sample 544 with entropy: 0.1313 Destroyer
+Training sample 545 with entropy: 0.1602 Destroyer
+Training sample 546 with entropy: 0.1240 Destroyer
+Training sample 547 with entropy: 0.1010 Destroyer
+Training sample 548 with entropy: 0.1019 Destroyer
+Training sample 549 with entropy: 0.2282 Destroyer
+Training sample 550 with entropy: 0.1521 Destroyer
+Training sample 551 with entropy: 0.1332 Destroyer
+Training sample 552 with entropy: 0.1485 Destroyer
+Training sample 553 with entropy: 0.1372 Destroyer
+Training sample 554 with entropy: 0.1528 Destroyer
+Training sample 555 with entropy: 0.2515 Destroyer
+Training sample 556 with entropy: 0.2088 Destroyer
+Training sample 557 with entropy: 0.1385 Destroyer
+Training sample 558 with entropy: 0.0761 Destroyer
+Training sample 559 with entropy: 0.1103 Destroyer
+Training sample 560 with entropy: 0.1002 Destroyer
+Training sample 561 with entropy: 0.0688 Destroyer
+Training sample 562 with entropy: 0.4060 Destroyer
+Training sample 563 with entropy: 0.1016 Destroyer
+Training sample 564 with entropy: 0.0593 Destroyer
+Training sample 565 with entropy: 0.1320 Destroyer
+Training sample 566 with entropy: 0.0653 Destroyer
+Training sample 567 with entropy: 0.0824 Destroyer
+Training sample 568 with entropy: 0.0865 Destroyer
+Training sample 569 with entropy: 0.0831 Destroyer
+Training sample 570 with entropy: 0.0792 Destroyer
+Training sample 571 with entropy: 0.0662 Destroyer
+Training sample 572 with entropy: 0.0915 Destroyer
+Training sample 573 with entropy: 0.0403 Destroyer
+Training sample 574 with entropy: 0.1042 Destroyer
+Training sample 575 with entropy: 0.0837 Destroyer
+Training sample 576 with entropy: 2.1013 Destroyer
+Training sample 577 with entropy: 1.1132 Destroyer
+Training sample 578 with entropy: 0.3665 Destroyer
+Training sample 579 with entropy: 0.6994 Destroyer
+Training sample 580 with entropy: 1.3350 Destroyer
+Training sample 581 with entropy: 1.2312 Destroyer
+Training sample 582 with entropy: 0.5650 Destroyer
+Training sample 583 with entropy: 0.9750 Destroyer
+Training sample 584 with entropy: 0.4218 Destroyer
+Training sample 585 with entropy: 0.3566 Destroyer
+Training sample 586 with entropy: 0.4392 Destroyer
+Training sample 587 with entropy: 0.5731 Destroyer
+Training sample 588 with entropy: 0.6821 Destroyer
+Training sample 589 with entropy: 0.5120 Destroyer
+Training sample 590 with entropy: 1.2641 Destroyer
+Training sample 591 with entropy: 1.5896 Destroyer
+Training sample 592 with entropy: 0.2036 Destroyer
+Training sample 593 with entropy: 0.3382 Destroyer
+Training sample 594 with entropy: 0.6130 Destroyer
+Training sample 595 with entropy: 0.2598 Destroyer
+Training sample 596 with entropy: 0.8489 Destroyer
+Training sample 597 with entropy: 0.0979 Destroyer
+Training sample 598 with entropy: 0.0978 Destroyer
+Training sample 599 with entropy: 0.1019 Destroyer
+Training sample 600 with entropy: 0.0394 Destroyer
+Training sample 601 with entropy: 0.0527 Destroyer
+Training sample 602 with entropy: 0.0788 Destroyer
+Training sample 603 with entropy: 0.1095 Destroyer
+Training sample 604 with entropy: 0.3961 Destroyer
+Training sample 605 with entropy: 0.5106 Destroyer
+Training sample 606 with entropy: 0.2324 Destroyer
+Training sample 607 with entropy: 1.1497 Destroyer
+Training sample 608 with entropy: 0.6306 Destroyer
+Training sample 609 with entropy: 1.8736 Destroyer
+Training sample 610 with entropy: 0.4705 Destroyer
+Training sample 611 with entropy: 0.5699 Destroyer
+Training sample 612 with entropy: 0.8056 Destroyer
+Training sample 613 with entropy: 0.0456 Destroyer
+Training sample 614 with entropy: 0.3890 Destroyer
+Training sample 615 with entropy: 0.2895 Destroyer
+Training sample 616 with entropy: 0.2536 Destroyer
+Training sample 617 with entropy: 0.0564 Destroyer
+Training sample 618 with entropy: 0.0264 Destroyer
+Training sample 619 with entropy: 0.0403 Destroyer
+Training sample 620 with entropy: 0.0286 Destroyer
+Training sample 621 with entropy: 0.0481 Destroyer
+Training sample 622 with entropy: 0.2515 Destroyer
+Training sample 623 with entropy: 0.2088 Destroyer
+Training sample 624 with entropy: 0.1385 Destroyer
+Training sample 625 with entropy: 0.0761 Destroyer
+Training sample 626 with entropy: 0.1103 Destroyer
+Training sample 627 with entropy: 0.1002 Destroyer
+Training sample 628 with entropy: 0.0688 Destroyer
+Training sample 629 with entropy: 0.0899 Destroyer
+Training sample 630 with entropy: 0.1363 Destroyer
+Training sample 631 with entropy: 0.1687 Destroyer
+Training sample 632 with entropy: 0.8149 Destroyer
+Training sample 633 with entropy: 0.5683 Destroyer
+Training sample 634 with entropy: 0.2067 Destroyer
+Training sample 635 with entropy: 0.5089 Destroyer
+Training sample 636 with entropy: 0.9441 Destroyer
+Training sample 637 with entropy: 0.3690 Destroyer
+Training sample 638 with entropy: 1.2242 Destroyer
+Training sample 639 with entropy: 0.0250 Destroyer
+Training sample 640 with entropy: 0.0442 Destroyer
+Training sample 641 with entropy: 0.0344 Destroyer
+Training sample 642 with entropy: 0.4418 Destroyer
+Training sample 643 with entropy: 0.1788 Destroyer
+Training sample 644 with entropy: 0.1685 Destroyer
+Training sample 645 with entropy: 0.0825 Destroyer
+Training sample 646 with entropy: 0.0477 Destroyer
+Training sample 647 with entropy: 0.0441 Destroyer
+Training sample 648 with entropy: 0.0456 Destroyer
+Training sample 649 with entropy: 0.0358 Destroyer
+Training sample 650 with entropy: 0.0396 Destroyer
+Training sample 651 with entropy: 0.3240 Destroyer
+Training sample 652 with entropy: 0.3397 Destroyer
+Training sample 653 with entropy: 0.2999 Destroyer
+Training sample 654 with entropy: 0.3266 Destroyer
+Training sample 655 with entropy: 0.0488 Destroyer
+Training sample 656 with entropy: 0.1087 Destroyer
+Training sample 657 with entropy: 0.2015 Destroyer
+Training sample 658 with entropy: 0.0978 Destroyer
+Training sample 659 with entropy: 0.3122 Destroyer
+Training sample 660 with entropy: 0.3670 Destroyer
+Training sample 661 with entropy: 0.2901 Destroyer
+Training sample 662 with entropy: 0.3234 Destroyer
+Training sample 663 with entropy: 1.7326 Destroyer
+Training sample 664 with entropy: 0.2592 Destroyer
+Training sample 665 with entropy: 1.8498 Destroyer
+Training sample 666 with entropy: 0.3401 Destroyer
+Training sample 667 with entropy: 0.4013 Destroyer
+Training sample 668 with entropy: 1.2023 Destroyer
+Training sample 669 with entropy: 1.0197 Destroyer
+Training sample 670 with entropy: 0.0183 Destroyer
+Training sample 671 with entropy: 0.0338 Destroyer
+Training sample 672 with entropy: 0.0692 Destroyer
+Training sample 673 with entropy: 0.2415 Destroyer
+Training sample 674 with entropy: 0.0705 Destroyer
+Training sample 675 with entropy: 0.2572 Destroyer
+Training sample 676 with entropy: 0.3444 Destroyer
+Training sample 677 with entropy: 0.3483 Destroyer
+Training sample 678 with entropy: 0.4253 Destroyer
+Training sample 679 with entropy: 0.3080 Destroyer
+Training sample 680 with entropy: 0.4717 Destroyer
+Training sample 681 with entropy: 0.1968 Destroyer
+Training sample 682 with entropy: 1.9840 Destroyer
+Training sample 683 with entropy: 1.6681 Destroyer
+Training sample 684 with entropy: 0.2956 Destroyer
+Training sample 685 with entropy: 0.1670 Destroyer
+Training sample 686 with entropy: 0.3730 Destroyer
+Training sample 687 with entropy: 0.1998 Destroyer
+Training sample 688 with entropy: 0.1631 Destroyer
+Training sample 689 with entropy: 0.2119 Destroyer
+Training sample 690 with entropy: 0.1612 Destroyer
+Training sample 691 with entropy: 0.2294 Destroyer
+Training sample 692 with entropy: 0.6454 Destroyer
+Training sample 693 with entropy: 0.0958 Destroyer
+Training sample 694 with entropy: 0.1975 Destroyer
+Training sample 695 with entropy: 0.1979 Destroyer
+Training sample 696 with entropy: 0.4354 Destroyer
+Training sample 697 with entropy: 0.0927 Destroyer
+Training sample 698 with entropy: 0.1650 Destroyer
+Training sample 699 with entropy: 0.1794 Destroyer
+Training sample 700 with entropy: 0.1602 Destroyer
+Training sample 701 with entropy: 0.1587 Destroyer
+Training sample 702 with entropy: 0.1240 Destroyer
+Training sample 703 with entropy: 0.1010 Destroyer
+Training sample 704 with entropy: 0.1019 Destroyer
+Training sample 705 with entropy: 0.2282 Destroyer
+Training sample 706 with entropy: 0.1521 Destroyer
+Training sample 707 with entropy: 0.1332 Destroyer
+Training sample 708 with entropy: 0.1485 Destroyer
+Training sample 709 with entropy: 0.1372 Destroyer
+Training sample 710 with entropy: 0.1626 Destroyer
+Training sample 711 with entropy: 0.2734 Destroyer
+Training sample 712 with entropy: 0.1890 Destroyer
+Training sample 713 with entropy: 0.0925 Destroyer
+Training sample 714 with entropy: 0.2758 Destroyer
+Training sample 715 with entropy: 0.0998 Destroyer
+Training sample 716 with entropy: 0.2723 Destroyer
+Training sample 717 with entropy: 0.1043 Destroyer
+Training sample 718 with entropy: 0.1133 Destroyer
+Training sample 719 with entropy: 0.1094 Destroyer
+Training sample 720 with entropy: 0.0990 Destroyer
+Training sample 721 with entropy: 1.3565 SAM System
+Training sample 722 with entropy: 1.1403 SAM System
+Training sample 723 with entropy: 1.1733 SAM System
+Training sample 724 with entropy: 1.1816 SAM System
+Training sample 725 with entropy: 1.2732 SAM System
+Training sample 726 with entropy: 1.3590 SAM System
+Training sample 727 with entropy: 1.2658 SAM System
+Training sample 728 with entropy: 1.3969 SAM System
+Training sample 729 with entropy: 1.2561 SAM System
+Training sample 730 with entropy: 1.0870 SAM System
+Training sample 731 with entropy: 1.4092 SAM System
+Training sample 732 with entropy: 1.2232 SAM System
+Training sample 733 with entropy: 0.7190 SAM System
+Training sample 734 with entropy: 1.1995 SAM System
+Training sample 735 with entropy: 1.2370 SAM System
+Training sample 736 with entropy: 1.2052 SAM System
+Training sample 737 with entropy: 1.1861 SAM System
+Training sample 738 with entropy: 1.6842 SAM System
+Training sample 739 with entropy: 1.2319 SAM System
+Training sample 740 with entropy: 1.5506 SAM System
+Training sample 741 with entropy: 1.5956 SAM System
+Training sample 742 with entropy: 1.6095 SAM System
+Training sample 743 with entropy: 1.4601 SAM System
+Training sample 744 with entropy: 1.3726 SAM System
+Training sample 745 with entropy: 1.0838 SAM System
+Training sample 746 with entropy: 1.0708 SAM System
+Training sample 747 with entropy: 0.9763 SAM System
+Training sample 748 with entropy: 1.1063 SAM System
+Training sample 749 with entropy: 1.3105 SAM System
+Training sample 750 with entropy: 1.1100 SAM System
+Training sample 751 with entropy: 1.0820 SAM System
+Training sample 752 with entropy: 1.3417 SAM System
+Training sample 753 with entropy: 1.4219 SAM System
+Training sample 754 with entropy: 1.1679 SAM System
+Training sample 755 with entropy: 1.2820 SAM System
+Training sample 756 with entropy: 0.9260 SAM System
+Training sample 757 with entropy: 0.7409 SAM System
+Training sample 758 with entropy: 1.2193 SAM System
+Training sample 759 with entropy: 0.9244 SAM System
+Training sample 760 with entropy: 1.3448 SAM System
+Training sample 761 with entropy: 1.4147 SAM System
+Training sample 762 with entropy: 1.3259 SAM System
+Training sample 763 with entropy: 0.7694 SAM System
+Training sample 764 with entropy: 0.6635 SAM System
+Training sample 765 with entropy: 0.6600 SAM System
+Training sample 766 with entropy: 1.2677 SAM System
+Training sample 767 with entropy: 1.2477 SAM System
+Training sample 768 with entropy: 1.3879 SAM System
+Training sample 769 with entropy: 1.1399 SAM System
+Training sample 770 with entropy: 1.1579 SAM System
+Training sample 771 with entropy: 0.9945 SAM System
+Training sample 772 with entropy: 1.2269 SAM System
+Training sample 773 with entropy: 0.7899 SAM System
+Training sample 774 with entropy: 1.0378 SAM System
+Training sample 775 with entropy: 1.2220 SAM System
+Training sample 776 with entropy: 0.8252 SAM System
+Training sample 777 with entropy: 0.8768 SAM System
+Training sample 778 with entropy: 0.9369 SAM System
+Training sample 779 with entropy: 1.3255 SAM System
+Training sample 780 with entropy: 0.8458 SAM System
+Training sample 781 with entropy: 0.7971 SAM System
+Training sample 782 with entropy: 1.0345 SAM System
+Training sample 783 with entropy: 1.1953 SAM System
+Training sample 784 with entropy: 1.2674 SAM System
+Training sample 785 with entropy: 1.0051 SAM System
+Training sample 786 with entropy: 1.1798 SAM System
+Training sample 787 with entropy: 1.7828 SAM System
+Training sample 788 with entropy: 0.9914 SAM System
+Training sample 789 with entropy: 1.1293 SAM System
+Training sample 790 with entropy: 0.9005 SAM System
+Training sample 791 with entropy: 1.1905 SAM System
+Training sample 792 with entropy: 1.2199 SAM System
+Training sample 793 with entropy: 0.5974 SAM System
+Training sample 794 with entropy: 0.9029 SAM System
+Training sample 795 with entropy: 0.9351 SAM System
+Training sample 796 with entropy: 1.2504 SAM System
+Training sample 797 with entropy: 1.0991 SAM System
+Training sample 798 with entropy: 0.7920 SAM System
+Training sample 799 with entropy: 1.3039 SAM System
+Training sample 800 with entropy: 0.7996 SAM System
+Training sample 801 with entropy: 1.3985 SAM System
+Training sample 802 with entropy: 1.0714 SAM System
+Training sample 803 with entropy: 1.3211 SAM System
+Training sample 804 with entropy: 1.0264 SAM System
+Training sample 805 with entropy: 0.8152 SAM System
+Training sample 806 with entropy: 0.9660 SAM System
+Training sample 807 with entropy: 0.6375 SAM System
+Training sample 808 with entropy: 1.2586 SAM System
+Training sample 809 with entropy: 1.1171 SAM System
+Training sample 810 with entropy: 1.4498 SAM System
+Training sample 811 with entropy: 1.5503 SAM System
+Training sample 812 with entropy: 1.8567 SAM System
+Training sample 813 with entropy: 1.7839 SAM System
+Training sample 814 with entropy: 1.6107 SAM System
+Training sample 815 with entropy: 1.2656 SAM System
+Training sample 816 with entropy: 0.8214 SAM System
+Training sample 817 with entropy: 0.9181 SAM System
+Training sample 818 with entropy: 0.8282 SAM System
+Training sample 819 with entropy: 0.9135 SAM System
+Training sample 820 with entropy: 1.0375 SAM System
+Training sample 821 with entropy: 1.1785 SAM System
+Training sample 822 with entropy: 1.3223 SAM System
+Training sample 823 with entropy: 0.8786 SAM System
+Training sample 824 with entropy: 2.1431 SAM System
+Training sample 825 with entropy: 1.9918 SAM System
+Training sample 826 with entropy: 1.5311 SAM System
+Training sample 827 with entropy: 1.5860 SAM System
+Training sample 828 with entropy: 0.9768 SAM System
+Training sample 829 with entropy: 1.4167 SAM System
+Training sample 830 with entropy: 1.3190 SAM System
+Training sample 831 with entropy: 1.4854 SAM System
+Training sample 832 with entropy: 1.2690 SAM System
+Training sample 833 with entropy: 1.5436 SAM System
+Training sample 834 with entropy: 1.5562 SAM System
+Training sample 835 with entropy: 1.4134 SAM System
+Training sample 836 with entropy: 0.9522 SAM System
+Training sample 837 with entropy: 1.3047 SAM System
+Training sample 838 with entropy: 0.6815 SAM System
+Training sample 839 with entropy: 0.7141 SAM System
+Training sample 840 with entropy: 1.5495 SAM System
+Training sample 841 with entropy: 1.5402 SAM System
+Training sample 842 with entropy: 1.6920 SAM System
+Training sample 843 with entropy: 1.6244 SAM System
+Training sample 844 with entropy: 1.3976 SAM System
+Training sample 845 with entropy: 1.3139 SAM System
+Training sample 846 with entropy: 1.2841 SAM System
+Training sample 847 with entropy: 1.1394 SAM System
+Training sample 848 with entropy: 1.3726 SAM System
+Training sample 849 with entropy: 0.8771 SAM System
+Training sample 850 with entropy: 1.0827 SAM System
+Training sample 851 with entropy: 0.7256 SAM System
+Training sample 852 with entropy: 1.0713 SAM System
+Training sample 853 with entropy: 1.0580 SAM System
+Training sample 854 with entropy: 1.0366 SAM System
+Training sample 855 with entropy: 1.5938 SAM System
+Training sample 856 with entropy: 1.5072 SAM System
+Training sample 857 with entropy: 1.5973 SAM System
+Training sample 858 with entropy: 1.5687 SAM System
+Training sample 859 with entropy: 1.1946 SAM System
+Training sample 860 with entropy: 1.1336 SAM System
+Training sample 861 with entropy: 1.2774 SAM System
+Training sample 862 with entropy: 0.8212 SAM System
+Training sample 863 with entropy: 0.8812 SAM System
+Training sample 864 with entropy: 1.0898 SAM System
+Training sample 865 with entropy: 1.2567 SAM System
+Training sample 866 with entropy: 1.1961 SAM System
+Training sample 867 with entropy: 1.1289 SAM System
+Training sample 868 with entropy: 1.2220 SAM System
+Training sample 869 with entropy: 1.0259 SAM System
+Training sample 870 with entropy: 0.9335 SAM System
+Training sample 871 with entropy: 0.7200 SAM System
+Training sample 872 with entropy: 0.8638 SAM System
+Training sample 873 with entropy: 1.1769 SAM System
+Training sample 874 with entropy: 0.8507 SAM System
+Training sample 875 with entropy: 0.8825 SAM System
+Training sample 876 with entropy: 1.2977 SAM System
+Training sample 877 with entropy: 0.9647 SAM System
+Training sample 878 with entropy: 1.1307 SAM System
+Training sample 879 with entropy: 1.1542 SAM System
+Training sample 880 with entropy: 1.0461 SAM System
+Training sample 881 with entropy: 1.0279 SAM System
+Training sample 882 with entropy: 1.0572 SAM System
+Training sample 883 with entropy: 1.0468 SAM System
+Training sample 884 with entropy: 1.0998 SAM System
+Training sample 885 with entropy: 1.1191 SAM System
+Training sample 886 with entropy: 0.5603 SAM System
+Training sample 887 with entropy: 1.1219 SAM System
+Training sample 888 with entropy: 1.2246 SAM System
+Training sample 889 with entropy: 1.2820 SAM System
+Training sample 890 with entropy: 1.2447 SAM System
+Training sample 891 with entropy: 1.2526 SAM System
+Training sample 892 with entropy: 0.9373 SAM System
+Training sample 893 with entropy: 1.5508 SAM System
+Training sample 894 with entropy: 1.3414 SAM System
+Training sample 895 with entropy: 1.2966 SAM System
+Training sample 896 with entropy: 1.0750 SAM System
+Training sample 897 with entropy: 0.8514 SAM System
+Training sample 898 with entropy: 1.1283 SAM System
+Training sample 899 with entropy: 0.9327 SAM System
+Training sample 900 with entropy: 0.8456 SAM System
+Training sample 901 with entropy: 2.0474 SUV
+Training sample 902 with entropy: 1.4106 SUV
+Training sample 903 with entropy: 1.0099 SUV
+Training sample 904 with entropy: 0.8962 SUV
+Training sample 905 with entropy: 1.8270 SUV
+Training sample 906 with entropy: 1.4838 SUV
+Training sample 907 with entropy: 1.2341 SUV
+Training sample 908 with entropy: 1.6208 SUV
+Training sample 909 with entropy: 0.8742 SUV
+Training sample 910 with entropy: 1.0969 SUV
+Training sample 911 with entropy: 1.0589 SUV
+Training sample 912 with entropy: 0.7012 SUV
+Training sample 913 with entropy: 0.7515 SUV
+Training sample 914 with entropy: 0.8587 SUV
+Training sample 915 with entropy: 1.2187 SUV
+Training sample 916 with entropy: 1.3558 SUV
+Training sample 917 with entropy: 1.0782 SUV
+Training sample 918 with entropy: 0.9711 SUV
+Training sample 919 with entropy: 0.3441 SUV
+Training sample 920 with entropy: 0.3136 SUV
+Training sample 921 with entropy: 1.6095 SUV
+Training sample 922 with entropy: 1.7688 SUV
+Training sample 923 with entropy: 1.5238 SUV
+Training sample 924 with entropy: 1.7004 SUV
+Training sample 925 with entropy: 1.6301 SUV
+Training sample 926 with entropy: 0.7051 SUV
+Training sample 927 with entropy: 0.8815 SUV
+Training sample 928 with entropy: 1.0460 SUV
+Training sample 929 with entropy: 1.0059 SUV
+Training sample 930 with entropy: 1.1857 SUV
+Training sample 931 with entropy: 1.6086 SUV
+Training sample 932 with entropy: 1.9431 SUV
+Training sample 933 with entropy: 1.7597 SUV
+Training sample 934 with entropy: 1.8458 SUV
+Training sample 935 with entropy: 1.4623 SUV
+Training sample 936 with entropy: 1.9788 SUV
+Training sample 937 with entropy: 0.8031 SUV
+Training sample 938 with entropy: 1.8739 SUV
+Training sample 939 with entropy: 1.3396 SUV
+Training sample 940 with entropy: 1.8030 SUV
+Training sample 941 with entropy: 1.3168 SUV
+Training sample 942 with entropy: 1.9673 SUV
+Training sample 943 with entropy: 0.9544 SUV
+Training sample 944 with entropy: 1.7284 SUV
+Training sample 945 with entropy: 2.1134 SUV
+Training sample 946 with entropy: 0.3718 SUV
+Training sample 947 with entropy: 0.2210 SUV
+Training sample 948 with entropy: 0.1973 SUV
+Training sample 949 with entropy: 0.1360 SUV
+Training sample 950 with entropy: 0.5395 SUV
+Training sample 951 with entropy: 0.5976 SUV
+Training sample 952 with entropy: 0.5942 SUV
+Training sample 953 with entropy: 0.6509 SUV
+Training sample 954 with entropy: 0.8446 SUV
+Training sample 955 with entropy: 0.7990 SUV
+Training sample 956 with entropy: 0.4862 SUV
+Training sample 957 with entropy: 0.3808 SUV
+Training sample 958 with entropy: 0.6573 SUV
+Training sample 959 with entropy: 1.2790 SUV
+Training sample 960 with entropy: 1.1531 SUV
+Training sample 961 with entropy: 1.0543 SUV
+Training sample 962 with entropy: 1.8375 SUV
+Training sample 963 with entropy: 0.8615 SUV
+Training sample 964 with entropy: 1.0773 SUV
+Training sample 965 with entropy: 0.8467 SUV
+Training sample 966 with entropy: 1.5547 SUV
+Training sample 967 with entropy: 1.5480 SUV
+Training sample 968 with entropy: 1.1532 SUV
+Training sample 969 with entropy: 0.2210 SUV
+Training sample 970 with entropy: 0.8993 SUV
+Training sample 971 with entropy: 0.7821 SUV
+Training sample 972 with entropy: 0.4584 SUV
+Training sample 973 with entropy: 0.0468 SUV
+Training sample 974 with entropy: 0.6966 SUV
+Training sample 975 with entropy: 0.8548 SUV
+Training sample 976 with entropy: 0.7656 SUV
+Training sample 977 with entropy: 0.7578 SUV
+Training sample 978 with entropy: 0.5506 SUV
+Training sample 979 with entropy: 0.4504 SUV
+Training sample 980 with entropy: 1.5916 SUV
+Training sample 981 with entropy: 0.1268 SUV
+Training sample 982 with entropy: 0.5389 SUV
+Training sample 983 with entropy: 0.4505 SUV
+Training sample 984 with entropy: 0.1749 SUV
+Training sample 985 with entropy: 0.8434 SUV
+Training sample 986 with entropy: 0.8248 SUV
+Training sample 987 with entropy: 0.8601 SUV
+Training sample 988 with entropy: 0.9435 SUV
+Training sample 989 with entropy: 0.8054 SUV
+Training sample 990 with entropy: 1.2893 SUV
+Training sample 991 with entropy: 0.3689 SUV
+Training sample 992 with entropy: 0.3343 SUV
+Training sample 993 with entropy: 0.5916 SUV
+Training sample 994 with entropy: 0.4941 SUV
+Training sample 995 with entropy: 1.9469 SUV
+Training sample 996 with entropy: 1.9173 SUV
+Training sample 997 with entropy: 0.7064 SUV
+Training sample 998 with entropy: 1.4561 SUV
+Training sample 999 with entropy: 0.6989 SUV
+Training sample 1000 with entropy: 1.5907 SUV
+Training sample 1001 with entropy: 0.4812 SUV
+Training sample 1002 with entropy: 0.7981 SUV
+Training sample 1003 with entropy: 0.7850 SUV
+Training sample 1004 with entropy: 1.5506 SUV
+Training sample 1005 with entropy: 0.3277 SUV
+Training sample 1006 with entropy: 0.9603 SUV
+Training sample 1007 with entropy: 0.4608 SUV
+Training sample 1008 with entropy: 0.3104 SUV
+Training sample 1009 with entropy: 0.1643 SUV
+Training sample 1010 with entropy: 1.1721 SUV
+Training sample 1011 with entropy: 1.4905 SUV
+Training sample 1012 with entropy: 1.4517 SUV
+Training sample 1013 with entropy: 0.9252 SUV
+Training sample 1014 with entropy: 0.9106 SUV
+Training sample 1015 with entropy: 0.8432 SUV
+Training sample 1016 with entropy: 0.3703 SUV
+Training sample 1017 with entropy: 0.6244 SUV
+Training sample 1018 with entropy: 1.3639 SUV
+Training sample 1019 with entropy: 0.4458 SUV
+Training sample 1020 with entropy: 0.9728 SUV
+Training sample 1021 with entropy: 0.8782 SUV
+Training sample 1022 with entropy: 0.9297 SUV
+Training sample 1023 with entropy: 0.8275 SUV
+Training sample 1024 with entropy: 0.4453 SUV
+Training sample 1025 with entropy: 1.3558 SUV
+Training sample 1026 with entropy: 0.6018 SUV
+Training sample 1027 with entropy: 1.2353 SUV
+Training sample 1028 with entropy: 1.0018 SUV
+Training sample 1029 with entropy: 0.2608 SUV
+Training sample 1030 with entropy: 0.6267 SUV
+Training sample 1031 with entropy: 0.0533 SUV
+Training sample 1032 with entropy: 0.0768 SUV
+Training sample 1033 with entropy: 0.1169 SUV
+Training sample 1034 with entropy: 0.1643 SUV
+Training sample 1035 with entropy: 0.1675 SUV
+Training sample 1036 with entropy: 0.2109 SUV
+Training sample 1037 with entropy: 0.1914 SUV
+Training sample 1038 with entropy: 0.0585 SUV
+Training sample 1039 with entropy: 0.0654 SUV
+Training sample 1040 with entropy: 0.1611 SUV
+Training sample 1041 with entropy: 0.1532 SUV
+Training sample 1042 with entropy: 0.1714 SUV
+Training sample 1043 with entropy: 0.0598 SUV
+Training sample 1044 with entropy: 0.0636 SUV
+Training sample 1045 with entropy: 0.1874 SUV
+Training sample 1046 with entropy: 0.1632 SUV
+Training sample 1047 with entropy: 0.5722 SUV
+Training sample 1048 with entropy: 0.6182 SUV
+Training sample 1049 with entropy: 0.8128 SUV
+Training sample 1050 with entropy: 0.9403 SUV
+Training sample 1051 with entropy: 1.0650 SUV
+Training sample 1052 with entropy: 1.0035 SUV
+Training sample 1053 with entropy: 0.9146 SUV
+Training sample 1054 with entropy: 1.0336 SUV
+Training sample 1055 with entropy: 1.0630 SUV
+Training sample 1056 with entropy: 1.2212 SUV
+Training sample 1057 with entropy: 0.8895 SUV
+Training sample 1058 with entropy: 0.8606 SUV
+Training sample 1059 with entropy: 0.3586 SUV
+Training sample 1060 with entropy: 0.1814 SUV
+Training sample 1061 with entropy: 0.4390 SUV
+Training sample 1062 with entropy: 0.1466 SUV
+Training sample 1063 with entropy: 0.1545 SUV
+Training sample 1064 with entropy: 0.1618 SUV
+Training sample 1065 with entropy: 0.0931 SUV
+Training sample 1066 with entropy: 0.0920 SUV
+Training sample 1067 with entropy: 0.1194 SUV
+Training sample 1068 with entropy: 0.1521 SUV
+Training sample 1069 with entropy: 0.1504 SUV
+Training sample 1070 with entropy: 1.4338 SUV
+Training sample 1071 with entropy: 1.5086 SUV
+Training sample 1072 with entropy: 0.6476 SUV
+Training sample 1073 with entropy: 0.7593 SUV
+Training sample 1074 with entropy: 1.2510 SUV
+Training sample 1075 with entropy: 0.2032 SUV
+Training sample 1076 with entropy: 0.3651 SUV
+Training sample 1077 with entropy: 0.7032 SUV
+Training sample 1078 with entropy: 0.6590 SUV
+Training sample 1079 with entropy: 0.2934 SUV
+Training sample 1080 with entropy: 0.6749 SUV
+Training sample 1081 with entropy: 0.4292 Sailboat
+Training sample 1082 with entropy: 0.3634 Sailboat
+Training sample 1083 with entropy: 1.5933 Sailboat
+Training sample 1084 with entropy: 1.1514 Sailboat
+Training sample 1085 with entropy: 0.5013 Sailboat
+Training sample 1086 with entropy: 1.3280 Sailboat
+Training sample 1087 with entropy: 1.8375 Sailboat
+Training sample 1088 with entropy: 1.9626 Sailboat
+Training sample 1089 with entropy: 1.2151 Sailboat
+Training sample 1090 with entropy: 1.1449 Sailboat
+Training sample 1091 with entropy: 1.7144 Sailboat
+Training sample 1092 with entropy: 0.2573 Sailboat
+Training sample 1093 with entropy: 0.2931 Sailboat
+Training sample 1094 with entropy: 1.3386 Sailboat
+Training sample 1095 with entropy: 0.4381 Sailboat
+Training sample 1096 with entropy: 0.5463 Sailboat
+Training sample 1097 with entropy: 0.3002 Sailboat
+Training sample 1098 with entropy: 1.8664 Sailboat
+Training sample 1099 with entropy: 1.2847 Sailboat
+Training sample 1100 with entropy: 1.6999 Sailboat
+Training sample 1101 with entropy: 1.6148 Sailboat
+Training sample 1102 with entropy: 1.4278 Sailboat
+Training sample 1103 with entropy: 2.0278 Sailboat
+Training sample 1104 with entropy: 2.1914 Sailboat
+Training sample 1105 with entropy: 1.2856 Sailboat
+Training sample 1106 with entropy: 1.6889 Sailboat
+Training sample 1107 with entropy: 0.2630 Sailboat
+Training sample 1108 with entropy: 0.3870 Sailboat
+Training sample 1109 with entropy: 1.7666 Sailboat
+Training sample 1110 with entropy: 0.9295 Sailboat
+Training sample 1111 with entropy: 1.6004 Sailboat
+Training sample 1112 with entropy: 1.7412 Sailboat
+Training sample 1113 with entropy: 2.1748 Sailboat
+Training sample 1114 with entropy: 1.8663 Sailboat
+Training sample 1115 with entropy: 1.4766 Sailboat
+Training sample 1116 with entropy: 0.4066 Sailboat
+Training sample 1117 with entropy: 0.3976 Sailboat
+Training sample 1118 with entropy: 0.5626 Sailboat
+Training sample 1119 with entropy: 0.5847 Sailboat
+Training sample 1120 with entropy: 1.8188 Sailboat
+Training sample 1121 with entropy: 1.3584 Sailboat
+Training sample 1122 with entropy: 1.1129 Sailboat
+Training sample 1123 with entropy: 0.6641 Sailboat
+Training sample 1124 with entropy: 0.9421 Sailboat
+Training sample 1125 with entropy: 1.3288 Sailboat
+Training sample 1126 with entropy: 0.8584 Sailboat
+Training sample 1127 with entropy: 1.1248 Sailboat
+Training sample 1128 with entropy: 0.3957 Sailboat
+Training sample 1129 with entropy: 0.7762 Sailboat
+Training sample 1130 with entropy: 1.5585 Sailboat
+Training sample 1131 with entropy: 1.5006 Sailboat
+Training sample 1132 with entropy: 1.1959 Sailboat
+Training sample 1133 with entropy: 0.4643 Sailboat
+Training sample 1134 with entropy: 0.5430 Sailboat
+Training sample 1135 with entropy: 1.7681 Sailboat
+Training sample 1136 with entropy: 1.3739 Sailboat
+Training sample 1137 with entropy: 0.9088 Sailboat
+Training sample 1138 with entropy: 1.6678 Sailboat
+Training sample 1139 with entropy: 0.9161 Sailboat
+Training sample 1140 with entropy: 1.3910 Sailboat
+Training sample 1141 with entropy: 1.5924 Sailboat
+Training sample 1142 with entropy: 1.8559 Sailboat
+Training sample 1143 with entropy: 1.7370 Sailboat
+Training sample 1144 with entropy: 0.3920 Sailboat
+Training sample 1145 with entropy: 1.5531 Sailboat
+Training sample 1146 with entropy: 0.7247 Sailboat
+Training sample 1147 with entropy: 1.9607 Sailboat
+Training sample 1148 with entropy: 0.2775 Sailboat
+Training sample 1149 with entropy: 0.3358 Sailboat
+Training sample 1150 with entropy: 2.1117 Sailboat
+Training sample 1151 with entropy: 0.9315 Sailboat
+Training sample 1152 with entropy: 1.5491 Sailboat
+Training sample 1153 with entropy: 0.7402 Sailboat
+Training sample 1154 with entropy: 2.0124 Sailboat
+Training sample 1155 with entropy: 1.8688 Sailboat
+Training sample 1156 with entropy: 2.0120 Sailboat
+Training sample 1157 with entropy: 1.1102 Sailboat
+Training sample 1158 with entropy: 0.9948 Sailboat
+Training sample 1159 with entropy: 1.1107 Sailboat
+Training sample 1160 with entropy: 1.7745 Sailboat
+Training sample 1161 with entropy: 0.4002 Sailboat
+Training sample 1162 with entropy: 0.4035 Sailboat
+Training sample 1163 with entropy: 0.2503 Sailboat
+Training sample 1164 with entropy: 1.3493 Sailboat
+Training sample 1165 with entropy: 2.0714 Sailboat
+Training sample 1166 with entropy: 1.7591 Sailboat
+Training sample 1167 with entropy: 0.8165 Sailboat
+Training sample 1168 with entropy: 0.7195 Sailboat
+Training sample 1169 with entropy: 1.4330 Sailboat
+Training sample 1170 with entropy: 1.4484 Sailboat
+Training sample 1171 with entropy: 1.9679 Sailboat
+Training sample 1172 with entropy: 1.6368 Sailboat
+Training sample 1173 with entropy: 1.3795 Sailboat
+Training sample 1174 with entropy: 0.8870 Sailboat
+Training sample 1175 with entropy: 1.4083 Sailboat
+Training sample 1176 with entropy: 1.9962 Sailboat
+Training sample 1177 with entropy: 0.6014 Sailboat
+Training sample 1178 with entropy: 0.9103 Sailboat
+Training sample 1179 with entropy: 1.9098 Sailboat
+Training sample 1180 with entropy: 0.9594 Sailboat
+Training sample 1181 with entropy: 1.9958 Sailboat
+Training sample 1182 with entropy: 0.3874 Sailboat
+Training sample 1183 with entropy: 0.6581 Sailboat
+Training sample 1184 with entropy: 1.3737 Sailboat
+Training sample 1185 with entropy: 1.8123 Sailboat
+Training sample 1186 with entropy: 1.3655 Sailboat
+Training sample 1187 with entropy: 0.8152 Sailboat
+Training sample 1188 with entropy: 1.6448 Sailboat
+Training sample 1189 with entropy: 0.4025 Sailboat
+Training sample 1190 with entropy: 0.3100 Sailboat
+Training sample 1191 with entropy: 0.4466 Sailboat
+Training sample 1192 with entropy: 0.3645 Sailboat
+Training sample 1193 with entropy: 0.3404 Sailboat
+Training sample 1194 with entropy: 1.7053 Sailboat
+Training sample 1195 with entropy: 1.1653 Sailboat
+Training sample 1196 with entropy: 1.3936 Sailboat
+Training sample 1197 with entropy: 0.6079 Sailboat
+Training sample 1198 with entropy: 0.6864 Sailboat
+Training sample 1199 with entropy: 0.9454 Sailboat
+Training sample 1200 with entropy: 1.6574 Sailboat
+Training sample 1201 with entropy: 1.7341 Sailboat
+Training sample 1202 with entropy: 0.7037 Sailboat
+Training sample 1203 with entropy: 1.1827 Sailboat
+Training sample 1204 with entropy: 0.4754 Sailboat
+Training sample 1205 with entropy: 0.7904 Sailboat
+Training sample 1206 with entropy: 0.5285 Sailboat
+Training sample 1207 with entropy: 1.7051 Sailboat
+Training sample 1208 with entropy: 0.4964 Sailboat
+Training sample 1209 with entropy: 0.2500 Sailboat
+Training sample 1210 with entropy: 0.3752 Sailboat
+Training sample 1211 with entropy: 0.6149 Sailboat
+Training sample 1212 with entropy: 0.6439 Sailboat
+Training sample 1213 with entropy: 0.3504 Sailboat
+Training sample 1214 with entropy: 1.6023 Sailboat
+Training sample 1215 with entropy: 1.7303 Sailboat
+Training sample 1216 with entropy: 2.0638 Sailboat
+Training sample 1217 with entropy: 1.3582 Sailboat
+Training sample 1218 with entropy: 0.7575 Sailboat
+Training sample 1219 with entropy: 0.2364 Sailboat
+Training sample 1220 with entropy: 1.8773 Sailboat
+Training sample 1221 with entropy: 1.2575 Sailboat
+Training sample 1222 with entropy: 1.3557 Sailboat
+Training sample 1223 with entropy: 0.1158 Sailboat
+Training sample 1224 with entropy: 1.8543 Sailboat
+Training sample 1225 with entropy: 0.5828 Sailboat
+Training sample 1226 with entropy: 0.6396 Sailboat
+Training sample 1227 with entropy: 1.9037 Sailboat
+Training sample 1228 with entropy: 2.1146 Sailboat
+Training sample 1229 with entropy: 2.0663 Sailboat
+Training sample 1230 with entropy: 0.3199 Sailboat
+Training sample 1231 with entropy: 1.3517 Sailboat
+Training sample 1232 with entropy: 1.5270 Sailboat
+Training sample 1233 with entropy: 0.0960 Sailboat
+Training sample 1234 with entropy: 1.3516 Sailboat
+Training sample 1235 with entropy: 0.3184 Sailboat
+Training sample 1236 with entropy: 0.3803 Sailboat
+Training sample 1237 with entropy: 0.3404 Sailboat
+Training sample 1238 with entropy: 1.3797 Sailboat
+Training sample 1239 with entropy: 2.0149 Sailboat
+Training sample 1240 with entropy: 1.7658 Sailboat
+Training sample 1241 with entropy: 2.0702 Sailboat
+Training sample 1242 with entropy: 2.1221 Sailboat
+Training sample 1243 with entropy: 1.3340 Sailboat
+Training sample 1244 with entropy: 1.3551 Sailboat
+Training sample 1245 with entropy: 0.7849 Sailboat
+Training sample 1246 with entropy: 0.9159 Sailboat
+Training sample 1247 with entropy: 1.9387 Sailboat
+Training sample 1248 with entropy: 1.3161 Sailboat
+Training sample 1249 with entropy: 0.6487 Sailboat
+Training sample 1250 with entropy: 0.4357 Sailboat
+Training sample 1251 with entropy: 1.6410 Sailboat
+Training sample 1252 with entropy: 1.5970 Sailboat
+Training sample 1253 with entropy: 0.7746 Sailboat
+Training sample 1254 with entropy: 1.8247 Sailboat
+Training sample 1255 with entropy: 1.7291 Sailboat
+Training sample 1256 with entropy: 1.3507 Sailboat
+Training sample 1257 with entropy: 1.0604 Sailboat
+Training sample 1258 with entropy: 0.8759 Sailboat
+Training sample 1259 with entropy: 1.6696 Sailboat
+Training sample 1260 with entropy: 1.0802 Sailboat
+Training sample 1261 with entropy: 0.9564 Sedan
+Training sample 1262 with entropy: 1.1216 Sedan
+Training sample 1263 with entropy: 1.1122 Sedan
+Training sample 1264 with entropy: 1.3455 Sedan
+Training sample 1265 with entropy: 1.0035 Sedan
+Training sample 1266 with entropy: 1.0086 Sedan
+Training sample 1267 with entropy: 1.0524 Sedan
+Training sample 1268 with entropy: 0.9615 Sedan
+Training sample 1269 with entropy: 2.1811 Sedan
+Training sample 1270 with entropy: 0.9994 Sedan
+Training sample 1271 with entropy: 1.0567 Sedan
+Training sample 1272 with entropy: 0.9573 Sedan
+Training sample 1273 with entropy: 0.8758 Sedan
+Training sample 1274 with entropy: 1.0524 Sedan
+Training sample 1275 with entropy: 1.1755 Sedan
+Training sample 1276 with entropy: 0.5362 Sedan
+Training sample 1277 with entropy: 0.5571 Sedan
+Training sample 1278 with entropy: 0.4794 Sedan
+Training sample 1279 with entropy: 0.4284 Sedan
+Training sample 1280 with entropy: 0.3802 Sedan
+Training sample 1281 with entropy: 0.6648 Sedan
+Training sample 1282 with entropy: 0.5461 Sedan
+Training sample 1283 with entropy: 0.5189 Sedan
+Training sample 1284 with entropy: 0.5581 Sedan
+Training sample 1285 with entropy: 0.7178 Sedan
+Training sample 1286 with entropy: 0.8919 Sedan
+Training sample 1287 with entropy: 1.0936 Sedan
+Training sample 1288 with entropy: 0.9609 Sedan
+Training sample 1289 with entropy: 0.9388 Sedan
+Training sample 1290 with entropy: 0.8996 Sedan
+Training sample 1291 with entropy: 1.1248 Sedan
+Training sample 1292 with entropy: 1.3429 Sedan
+Training sample 1293 with entropy: 1.0943 Sedan
+Training sample 1294 with entropy: 0.9006 Sedan
+Training sample 1295 with entropy: 1.0853 Sedan
+Training sample 1296 with entropy: 0.9486 Sedan
+Training sample 1297 with entropy: 1.1948 Sedan
+Training sample 1298 with entropy: 0.9156 Sedan
+Training sample 1299 with entropy: 1.1196 Sedan
+Training sample 1300 with entropy: 0.6924 Sedan
+Training sample 1301 with entropy: 0.6911 Sedan
+Training sample 1302 with entropy: 0.7902 Sedan
+Training sample 1303 with entropy: 0.6851 Sedan
+Training sample 1304 with entropy: 0.4166 Sedan
+Training sample 1305 with entropy: 0.7094 Sedan
+Training sample 1306 with entropy: 0.7193 Sedan
+Training sample 1307 with entropy: 0.4948 Sedan
+Training sample 1308 with entropy: 0.6172 Sedan
+Training sample 1309 with entropy: 0.7412 Sedan
+Training sample 1310 with entropy: 0.5982 Sedan
+Training sample 1311 with entropy: 0.9023 Sedan
+Training sample 1312 with entropy: 0.5789 Sedan
+Training sample 1313 with entropy: 0.4331 Sedan
+Training sample 1314 with entropy: 0.9449 Sedan
+Training sample 1315 with entropy: 0.4972 Sedan
+Training sample 1316 with entropy: 0.6584 Sedan
+Training sample 1317 with entropy: 0.9547 Sedan
+Training sample 1318 with entropy: 1.0176 Sedan
+Training sample 1319 with entropy: 1.3421 Sedan
+Training sample 1320 with entropy: 0.4595 Sedan
+Training sample 1321 with entropy: 0.9206 Sedan
+Training sample 1322 with entropy: 0.8823 Sedan
+Training sample 1323 with entropy: 1.2882 Sedan
+Training sample 1324 with entropy: 0.9247 Sedan
+Training sample 1325 with entropy: 1.2132 Sedan
+Training sample 1326 with entropy: 0.7705 Sedan
+Training sample 1327 with entropy: 1.0537 Sedan
+Training sample 1328 with entropy: 1.1948 Sedan
+Training sample 1329 with entropy: 0.8752 Sedan
+Training sample 1330 with entropy: 1.2613 Sedan
+Training sample 1331 with entropy: 0.7135 Sedan
+Training sample 1332 with entropy: 0.7933 Sedan
+Training sample 1333 with entropy: 0.5740 Sedan
+Training sample 1334 with entropy: 1.1794 Sedan
+Training sample 1335 with entropy: 1.1495 Sedan
+Training sample 1336 with entropy: 1.1950 Sedan
+Training sample 1337 with entropy: 1.2925 Sedan
+Training sample 1338 with entropy: 0.8547 Sedan
+Training sample 1339 with entropy: 0.9363 Sedan
+Training sample 1340 with entropy: 0.7815 Sedan
+Training sample 1341 with entropy: 0.8429 Sedan
+Training sample 1342 with entropy: 0.7464 Sedan
+Training sample 1343 with entropy: 1.1827 Sedan
+Training sample 1344 with entropy: 1.6487 Sedan
+Training sample 1345 with entropy: 1.0606 Sedan
+Training sample 1346 with entropy: 0.7742 Sedan
+Training sample 1347 with entropy: 1.2421 Sedan
+Training sample 1348 with entropy: 1.0323 Sedan
+Training sample 1349 with entropy: 0.6415 Sedan
+Training sample 1350 with entropy: 0.6960 Sedan
+Training sample 1351 with entropy: 1.1541 Sedan
+Training sample 1352 with entropy: 0.9492 Sedan
+Training sample 1353 with entropy: 0.9566 Sedan
+Training sample 1354 with entropy: 0.7526 Sedan
+Training sample 1355 with entropy: 1.0796 Sedan
+Training sample 1356 with entropy: 1.2474 Sedan
+Training sample 1357 with entropy: 0.7687 Sedan
+Training sample 1358 with entropy: 0.6411 Sedan
+Training sample 1359 with entropy: 0.6507 Sedan
+Training sample 1360 with entropy: 0.6583 Sedan
+Training sample 1361 with entropy: 0.6580 Sedan
+Training sample 1362 with entropy: 1.0059 Sedan
+Training sample 1363 with entropy: 1.1506 Sedan
+Training sample 1364 with entropy: 1.6179 Sedan
+Training sample 1365 with entropy: 0.7235 Sedan
+Training sample 1366 with entropy: 0.7137 Sedan
+Training sample 1367 with entropy: 0.7493 Sedan
+Training sample 1368 with entropy: 0.7258 Sedan
+Training sample 1369 with entropy: 0.3627 Sedan
+Training sample 1370 with entropy: 0.9297 Sedan
+Training sample 1371 with entropy: 0.7989 Sedan
+Training sample 1372 with entropy: 1.1529 Sedan
+Training sample 1373 with entropy: 0.6416 Sedan
+Training sample 1374 with entropy: 0.9401 Sedan
+Training sample 1375 with entropy: 0.7109 Sedan
+Training sample 1376 with entropy: 1.0780 Sedan
+Training sample 1377 with entropy: 1.1939 Sedan
+Training sample 1378 with entropy: 1.1130 Sedan
+Training sample 1379 with entropy: 0.6792 Sedan
+Training sample 1380 with entropy: 1.4244 Sedan
+Training sample 1381 with entropy: 1.4397 Sedan
+Training sample 1382 with entropy: 0.8811 Sedan
+Training sample 1383 with entropy: 0.4343 Sedan
+Training sample 1384 with entropy: 0.4015 Sedan
+Training sample 1385 with entropy: 0.3925 Sedan
+Training sample 1386 with entropy: 0.4930 Sedan
+Training sample 1387 with entropy: 0.4059 Sedan
+Training sample 1388 with entropy: 0.7365 Sedan
+Training sample 1389 with entropy: 0.4279 Sedan
+Training sample 1390 with entropy: 0.5587 Sedan
+Training sample 1391 with entropy: 1.2505 Sedan
+Training sample 1392 with entropy: 1.1590 Sedan
+Training sample 1393 with entropy: 1.8453 Sedan
+Training sample 1394 with entropy: 0.7368 Sedan
+Training sample 1395 with entropy: 0.7294 Sedan
+Training sample 1396 with entropy: 0.9124 Sedan
+Training sample 1397 with entropy: 0.8162 Sedan
+Training sample 1398 with entropy: 0.9033 Sedan
+Training sample 1399 with entropy: 0.8419 Sedan
+Training sample 1400 with entropy: 0.8815 Sedan
+Training sample 1401 with entropy: 0.6746 Sedan
+Training sample 1402 with entropy: 0.5985 Sedan
+Training sample 1403 with entropy: 0.6326 Sedan
+Training sample 1404 with entropy: 1.0230 Sedan
+Training sample 1405 with entropy: 1.0206 Sedan
+Training sample 1406 with entropy: 0.7716 Sedan
+Training sample 1407 with entropy: 0.8981 Sedan
+Training sample 1408 with entropy: 0.4593 Sedan
+Training sample 1409 with entropy: 0.9366 Sedan
+Training sample 1410 with entropy: 0.8294 Sedan
+Training sample 1411 with entropy: 0.7842 Sedan
+Training sample 1412 with entropy: 0.5716 Sedan
+Training sample 1413 with entropy: 0.6130 Sedan
+Training sample 1414 with entropy: 0.9261 Sedan
+Training sample 1415 with entropy: 0.9371 Sedan
+Training sample 1416 with entropy: 0.8913 Sedan
+Training sample 1417 with entropy: 1.3066 Sedan
+Training sample 1418 with entropy: 1.1259 Sedan
+Training sample 1419 with entropy: 0.8541 Sedan
+Training sample 1420 with entropy: 0.8082 Sedan
+Training sample 1421 with entropy: 1.1522 Sedan
+Training sample 1422 with entropy: 1.1750 Sedan
+Training sample 1423 with entropy: 0.8549 Sedan
+Training sample 1424 with entropy: 0.7315 Sedan
+Training sample 1425 with entropy: 1.1829 Sedan
+Training sample 1426 with entropy: 0.7846 Sedan
+Training sample 1427 with entropy: 1.2888 Sedan
+Training sample 1428 with entropy: 0.9137 Sedan
+Training sample 1429 with entropy: 0.6886 Sedan
+Training sample 1430 with entropy: 0.7060 Sedan
+Training sample 1431 with entropy: 0.5263 Sedan
+Training sample 1432 with entropy: 0.4782 Sedan
+Training sample 1433 with entropy: 1.1552 Sedan
+Training sample 1434 with entropy: 1.1575 Sedan
+Training sample 1435 with entropy: 1.7503 Sedan
+Training sample 1436 with entropy: 1.1798 Sedan
+Training sample 1437 with entropy: 0.4869 Sedan
+Training sample 1438 with entropy: 1.2927 Sedan
+Training sample 1439 with entropy: 0.8867 Sedan
+Training sample 1440 with entropy: 0.9536 Sedan
+Training sample 1441 with entropy: 1.0678 Tank
+Training sample 1442 with entropy: 1.0258 Tank
+Training sample 1443 with entropy: 1.1405 Tank
+Training sample 1444 with entropy: 1.4525 Tank
+Training sample 1445 with entropy: 1.1772 Tank
+Training sample 1446 with entropy: 1.1425 Tank
+Training sample 1447 with entropy: 1.1441 Tank
+Training sample 1448 with entropy: 1.5669 Tank
+Training sample 1449 with entropy: 1.3190 Tank
+Training sample 1450 with entropy: 1.9135 Tank
+Training sample 1451 with entropy: 1.7160 Tank
+Training sample 1452 with entropy: 1.7904 Tank
+Training sample 1453 with entropy: 1.5236 Tank
+Training sample 1454 with entropy: 1.0165 Tank
+Training sample 1455 with entropy: 1.1045 Tank
+Training sample 1456 with entropy: 1.4187 Tank
+Training sample 1457 with entropy: 1.3059 Tank
+Training sample 1458 with entropy: 1.2369 Tank
+Training sample 1459 with entropy: 1.3034 Tank
+Training sample 1460 with entropy: 1.1998 Tank
+Training sample 1461 with entropy: 1.5421 Tank
+Training sample 1462 with entropy: 1.3837 Tank
+Training sample 1463 with entropy: 1.6779 Tank
+Training sample 1464 with entropy: 1.8860 Tank
+Training sample 1465 with entropy: 1.3203 Tank
+Training sample 1466 with entropy: 1.2390 Tank
+Training sample 1467 with entropy: 1.4825 Tank
+Training sample 1468 with entropy: 1.6948 Tank
+Training sample 1469 with entropy: 1.3340 Tank
+Training sample 1470 with entropy: 1.9332 Tank
+Training sample 1471 with entropy: 1.2072 Tank
+Training sample 1472 with entropy: 1.2983 Tank
+Training sample 1473 with entropy: 1.2189 Tank
+Training sample 1474 with entropy: 1.1440 Tank
+Training sample 1475 with entropy: 1.1744 Tank
+Training sample 1476 with entropy: 1.2907 Tank
+Training sample 1477 with entropy: 1.2174 Tank
+Training sample 1478 with entropy: 1.2099 Tank
+Training sample 1479 with entropy: 1.1214 Tank
+Training sample 1480 with entropy: 1.1758 Tank
+Training sample 1481 with entropy: 1.1296 Tank
+Training sample 1482 with entropy: 1.2174 Tank
+Training sample 1483 with entropy: 1.2295 Tank
+Training sample 1484 with entropy: 1.1548 Tank
+Training sample 1485 with entropy: 1.0819 Tank
+Training sample 1486 with entropy: 1.5911 Tank
+Training sample 1487 with entropy: 0.9657 Tank
+Training sample 1488 with entropy: 1.9613 Tank
+Training sample 1489 with entropy: 1.1256 Tank
+Training sample 1490 with entropy: 1.7800 Tank
+Training sample 1491 with entropy: 1.1179 Tank
+Training sample 1492 with entropy: 1.9374 Tank
+Training sample 1493 with entropy: 1.7927 Tank
+Training sample 1494 with entropy: 1.1232 Tank
+Training sample 1495 with entropy: 1.6642 Tank
+Training sample 1496 with entropy: 1.1225 Tank
+Training sample 1497 with entropy: 1.5998 Tank
+Training sample 1498 with entropy: 1.5113 Tank
+Training sample 1499 with entropy: 1.5044 Tank
+Training sample 1500 with entropy: 1.6573 Tank
+Training sample 1501 with entropy: 1.6245 Tank
+Training sample 1502 with entropy: 1.2376 Tank
+Training sample 1503 with entropy: 1.2335 Tank
+Training sample 1504 with entropy: 1.2160 Tank
+Training sample 1505 with entropy: 0.9990 Tank
+Training sample 1506 with entropy: 1.8361 Tank
+Training sample 1507 with entropy: 1.3678 Tank
+Training sample 1508 with entropy: 1.8265 Tank
+Training sample 1509 with entropy: 1.3698 Tank
+Training sample 1510 with entropy: 1.7267 Tank
+Training sample 1511 with entropy: 2.0495 Tank
+Training sample 1512 with entropy: 1.6531 Tank
+Training sample 1513 with entropy: 1.2356 Tank
+Training sample 1514 with entropy: 1.5608 Tank
+Training sample 1515 with entropy: 1.7869 Tank
+Training sample 1516 with entropy: 1.8439 Tank
+Training sample 1517 with entropy: 1.3655 Tank
+Training sample 1518 with entropy: 1.2925 Tank
+Training sample 1519 with entropy: 1.3288 Tank
+Training sample 1520 with entropy: 1.1983 Tank
+Training sample 1521 with entropy: 1.1650 Tank
+Training sample 1522 with entropy: 1.3793 Tank
+Training sample 1523 with entropy: 1.2052 Tank
+Training sample 1524 with entropy: 1.3489 Tank
+Training sample 1525 with entropy: 1.1602 Tank
+Training sample 1526 with entropy: 1.1455 Tank
+Training sample 1527 with entropy: 1.2378 Tank
+Training sample 1528 with entropy: 1.3450 Tank
+Training sample 1529 with entropy: 1.1858 Tank
+Training sample 1530 with entropy: 1.2094 Tank
+Training sample 1531 with entropy: 1.5471 Tank
+Training sample 1532 with entropy: 1.2260 Tank
+Training sample 1533 with entropy: 1.6700 Tank
+Training sample 1534 with entropy: 0.9501 Tank
+Training sample 1535 with entropy: 1.2997 Tank
+Training sample 1536 with entropy: 1.1036 Tank
+Training sample 1537 with entropy: 1.2506 Tank
+Training sample 1538 with entropy: 1.2013 Tank
+Training sample 1539 with entropy: 1.8068 Tank
+Training sample 1540 with entropy: 1.5212 Tank
+Training sample 1541 with entropy: 1.9678 Tank
+Training sample 1542 with entropy: 1.5990 Tank
+Training sample 1543 with entropy: 1.5552 Tank
+Training sample 1544 with entropy: 1.8394 Tank
+Training sample 1545 with entropy: 0.6039 Tank
+Training sample 1546 with entropy: 0.5585 Tank
+Training sample 1547 with entropy: 0.8435 Tank
+Training sample 1548 with entropy: 1.4124 Tank
+Training sample 1549 with entropy: 1.0632 Tank
+Training sample 1550 with entropy: 1.3585 Tank
+Training sample 1551 with entropy: 1.5477 Tank
+Training sample 1552 with entropy: 1.3967 Tank
+Training sample 1553 with entropy: 1.5015 Tank
+Training sample 1554 with entropy: 1.2402 Tank
+Training sample 1555 with entropy: 1.5245 Tank
+Training sample 1556 with entropy: 1.2661 Tank
+Training sample 1557 with entropy: 1.5848 Tank
+Training sample 1558 with entropy: 1.0623 Tank
+Training sample 1559 with entropy: 1.4300 Tank
+Training sample 1560 with entropy: 1.3908 Tank
+Training sample 1561 with entropy: 1.3609 Tank
+Training sample 1562 with entropy: 1.3981 Tank
+Training sample 1563 with entropy: 1.3358 Tank
+Training sample 1564 with entropy: 1.5011 Tank
+Training sample 1565 with entropy: 1.4587 Tank
+Training sample 1566 with entropy: 2.1307 Tank
+Training sample 1567 with entropy: 1.2497 Tank
+Training sample 1568 with entropy: 1.4703 Tank
+Training sample 1569 with entropy: 2.0191 Tank
+Training sample 1570 with entropy: 1.8609 Tank
+Training sample 1571 with entropy: 1.2591 Tank
+Training sample 1572 with entropy: 1.6253 Tank
+Training sample 1573 with entropy: 1.0671 Tank
+Training sample 1574 with entropy: 1.3075 Tank
+Training sample 1575 with entropy: 1.2660 Tank
+Training sample 1576 with entropy: 1.2352 Tank
+Training sample 1577 with entropy: 0.9733 Tank
+Training sample 1578 with entropy: 1.2215 Tank
+Training sample 1579 with entropy: 1.2014 Tank
+Training sample 1580 with entropy: 1.8631 Tank
+Training sample 1581 with entropy: 1.1292 Tank
+Training sample 1582 with entropy: 1.2628 Tank
+Training sample 1583 with entropy: 1.6613 Tank
+Training sample 1584 with entropy: 1.4518 Tank
+Training sample 1585 with entropy: 1.4767 Tank
+Training sample 1586 with entropy: 1.7728 Tank
+Training sample 1587 with entropy: 1.6390 Tank
+Training sample 1588 with entropy: 1.5279 Tank
+Training sample 1589 with entropy: 1.6239 Tank
+Training sample 1590 with entropy: 1.0758 Tank
+Training sample 1591 with entropy: 1.1947 Tank
+Training sample 1592 with entropy: 1.2304 Tank
+Training sample 1593 with entropy: 1.5801 Tank
+Training sample 1594 with entropy: 1.6964 Tank
+Training sample 1595 with entropy: 1.7003 Tank
+Training sample 1596 with entropy: 1.7320 Tank
+Training sample 1597 with entropy: 1.1842 Tank
+Training sample 1598 with entropy: 1.1847 Tank
+Training sample 1599 with entropy: 1.0897 Tank
+Training sample 1600 with entropy: 1.1949 Tank
+Training sample 1601 with entropy: 1.1519 Tank
+Training sample 1602 with entropy: 1.3139 Tank
+Training sample 1603 with entropy: 1.7105 Tank
+Training sample 1604 with entropy: 1.3493 Tank
+Training sample 1605 with entropy: 1.6744 Tank
+Training sample 1606 with entropy: 1.7942 Tank
+Training sample 1607 with entropy: 1.3028 Tank
+Training sample 1608 with entropy: 1.4061 Tank
+Training sample 1609 with entropy: 1.3328 Tank
+Training sample 1610 with entropy: 1.0957 Tank
+Training sample 1611 with entropy: 1.0413 Tank
+Training sample 1612 with entropy: 1.1987 Tank
+Training sample 1613 with entropy: 1.1318 Tank
+Training sample 1614 with entropy: 1.1880 Tank
+Training sample 1615 with entropy: 1.0939 Tank
+Training sample 1616 with entropy: 1.2090 Tank
+Training sample 1617 with entropy: 1.5155 Tank
+Training sample 1618 with entropy: 1.0690 Tank
+Training sample 1619 with entropy: 1.2832 Tank
+Training sample 1620 with entropy: 1.1259 Tank
+Training sample 1621 with entropy: 0.7493 Zodiac
+Training sample 1622 with entropy: 0.5636 Zodiac
+Training sample 1623 with entropy: 0.9462 Zodiac
+Training sample 1624 with entropy: 0.5061 Zodiac
+Training sample 1625 with entropy: 0.7935 Zodiac
+Training sample 1626 with entropy: 0.9692 Zodiac
+Training sample 1627 with entropy: 1.3800 Zodiac
+Training sample 1628 with entropy: 0.1115 Zodiac
+Training sample 1629 with entropy: 0.8537 Zodiac
+Training sample 1630 with entropy: 0.3701 Zodiac
+Training sample 1631 with entropy: 1.7634 Zodiac
+Training sample 1632 with entropy: 1.7306 Zodiac
+Training sample 1633 with entropy: 0.2550 Zodiac
+Training sample 1634 with entropy: 0.7364 Zodiac
+Training sample 1635 with entropy: 0.2811 Zodiac
+Training sample 1636 with entropy: 0.6043 Zodiac
+Training sample 1637 with entropy: 1.4374 Zodiac
+Training sample 1638 with entropy: 0.4548 Zodiac
+Training sample 1639 with entropy: 0.8483 Zodiac
+Training sample 1640 with entropy: 1.0064 Zodiac
+Training sample 1641 with entropy: 1.3540 Zodiac
+Training sample 1642 with entropy: 1.5279 Zodiac
+Training sample 1643 with entropy: 1.4891 Zodiac
+Training sample 1644 with entropy: 1.4050 Zodiac
+Training sample 1645 with entropy: 1.4833 Zodiac
+Training sample 1646 with entropy: 0.7406 Zodiac
+Training sample 1647 with entropy: 0.9522 Zodiac
+Training sample 1648 with entropy: 1.4934 Zodiac
+Training sample 1649 with entropy: 1.4600 Zodiac
+Training sample 1650 with entropy: 1.6024 Zodiac
+Training sample 1651 with entropy: 2.0780 Zodiac
+Training sample 1652 with entropy: 2.1321 Zodiac
+Training sample 1653 with entropy: 1.8007 Zodiac
+Training sample 1654 with entropy: 1.9490 Zodiac
+Training sample 1655 with entropy: 1.3663 Zodiac
+Training sample 1656 with entropy: 1.4848 Zodiac
+Training sample 1657 with entropy: 1.2972 Zodiac
+Training sample 1658 with entropy: 1.2874 Zodiac
+Training sample 1659 with entropy: 1.7204 Zodiac
+Training sample 1660 with entropy: 0.5227 Zodiac
+Training sample 1661 with entropy: 0.6605 Zodiac
+Training sample 1662 with entropy: 1.5222 Zodiac
+Training sample 1663 with entropy: 0.8200 Zodiac
+Training sample 1664 with entropy: 0.3822 Zodiac
+Training sample 1665 with entropy: 0.6965 Zodiac
+Training sample 1666 with entropy: 0.1315 Zodiac
+Training sample 1667 with entropy: 0.3500 Zodiac
+Training sample 1668 with entropy: 0.3260 Zodiac
+Training sample 1669 with entropy: 1.2347 Zodiac
+Training sample 1670 with entropy: 0.8601 Zodiac
+Training sample 1671 with entropy: 0.3102 Zodiac
+Training sample 1672 with entropy: 1.3951 Zodiac
+Training sample 1673 with entropy: 0.4301 Zodiac
+Training sample 1674 with entropy: 1.1675 Zodiac
+Training sample 1675 with entropy: 0.8042 Zodiac
+Training sample 1676 with entropy: 0.2220 Zodiac
+Training sample 1677 with entropy: 0.9295 Zodiac
+Training sample 1678 with entropy: 0.4061 Zodiac
+Training sample 1679 with entropy: 1.2402 Zodiac
+Training sample 1680 with entropy: 1.0727 Zodiac
+Training sample 1681 with entropy: 0.4965 Zodiac
+Training sample 1682 with entropy: 0.7416 Zodiac
+Training sample 1683 with entropy: 0.2144 Zodiac
+Training sample 1684 with entropy: 0.8857 Zodiac
+Training sample 1685 with entropy: 1.0057 Zodiac
+Training sample 1686 with entropy: 0.8518 Zodiac
+Training sample 1687 with entropy: 0.9837 Zodiac
+Training sample 1688 with entropy: 1.2620 Zodiac
+Training sample 1689 with entropy: 1.1283 Zodiac
+Training sample 1690 with entropy: 0.9600 Zodiac
+Training sample 1691 with entropy: 1.3098 Zodiac
+Training sample 1692 with entropy: 0.7914 Zodiac
+Training sample 1693 with entropy: 0.6993 Zodiac
+Training sample 1694 with entropy: 1.2904 Zodiac
+Training sample 1695 with entropy: 0.7920 Zodiac
+Training sample 1696 with entropy: 2.1010 Zodiac
+Training sample 1697 with entropy: 0.1899 Zodiac
+Training sample 1698 with entropy: 0.6692 Zodiac
+Training sample 1699 with entropy: 0.5986 Zodiac
+Training sample 1700 with entropy: 0.6540 Zodiac
+Training sample 1701 with entropy: 0.9477 Zodiac
+Training sample 1702 with entropy: 1.0331 Zodiac
+Training sample 1703 with entropy: 2.1507 Zodiac
+Training sample 1704 with entropy: 1.2608 Zodiac
+Training sample 1705 with entropy: 0.9642 Zodiac
+Training sample 1706 with entropy: 0.7253 Zodiac
+Training sample 1707 with entropy: 1.4210 Zodiac
+Training sample 1708 with entropy: 1.2656 Zodiac
+Training sample 1709 with entropy: 1.6991 Zodiac
+Training sample 1710 with entropy: 0.9375 Zodiac
+Training sample 1711 with entropy: 0.5399 Zodiac
+Training sample 1712 with entropy: 1.1768 Zodiac
+Training sample 1713 with entropy: 1.5520 Zodiac
+Training sample 1714 with entropy: 1.2857 Zodiac
+Training sample 1715 with entropy: 0.9702 Zodiac
+Training sample 1716 with entropy: 1.1459 Zodiac
+Training sample 1717 with entropy: 0.8714 Zodiac
+Training sample 1718 with entropy: 0.3701 Zodiac
+Training sample 1719 with entropy: 1.2421 Zodiac
+Training sample 1720 with entropy: 0.6371 Zodiac
+Training sample 1721 with entropy: 0.5581 Zodiac
+Training sample 1722 with entropy: 0.6578 Zodiac
+Training sample 1723 with entropy: 0.9911 Zodiac
+Training sample 1724 with entropy: 0.6774 Zodiac
+Training sample 1725 with entropy: 0.4215 Zodiac
+Training sample 1726 with entropy: 0.1978 Zodiac
+Training sample 1727 with entropy: 1.4411 Zodiac
+Training sample 1728 with entropy: 0.5332 Zodiac
+Training sample 1729 with entropy: 1.1633 Zodiac
+Training sample 1730 with entropy: 1.2118 Zodiac
+Training sample 1731 with entropy: 1.0298 Zodiac
+Training sample 1732 with entropy: 0.8787 Zodiac
+Training sample 1733 with entropy: 1.6784 Zodiac
+Training sample 1734 with entropy: 0.3387 Zodiac
+Training sample 1735 with entropy: 0.4668 Zodiac
+Training sample 1736 with entropy: 0.1440 Zodiac
+Training sample 1737 with entropy: 0.7859 Zodiac
+Training sample 1738 with entropy: 0.9377 Zodiac
+Training sample 1739 with entropy: 0.7334 Zodiac
+Training sample 1740 with entropy: 0.7372 Zodiac
+Training sample 1741 with entropy: 1.5849 Zodiac
+Training sample 1742 with entropy: 0.1152 Zodiac
+Training sample 1743 with entropy: 1.3396 Zodiac
+Training sample 1744 with entropy: 0.9700 Zodiac
+Training sample 1745 with entropy: 1.3377 Zodiac
+Training sample 1746 with entropy: 1.3499 Zodiac
+Training sample 1747 with entropy: 1.1647 Zodiac
+Training sample 1748 with entropy: 1.1227 Zodiac
+Training sample 1749 with entropy: 1.3686 Zodiac
+Training sample 1750 with entropy: 1.1511 Zodiac
+Training sample 1751 with entropy: 0.2847 Zodiac
+Training sample 1752 with entropy: 0.2245 Zodiac
+Training sample 1753 with entropy: 1.0723 Zodiac
+Training sample 1754 with entropy: 1.4848 Zodiac
+Training sample 1755 with entropy: 0.6726 Zodiac
+Training sample 1756 with entropy: 1.4290 Zodiac
+Training sample 1757 with entropy: 1.1624 Zodiac
+Training sample 1758 with entropy: 1.3640 Zodiac
+Training sample 1759 with entropy: 0.7381 Zodiac
+Training sample 1760 with entropy: 1.1229 Zodiac
+Training sample 1761 with entropy: 0.6907 Zodiac
+Training sample 1762 with entropy: 0.2019 Zodiac
+Training sample 1763 with entropy: 0.7326 Zodiac
+Training sample 1764 with entropy: 0.1876 Zodiac
+Training sample 1765 with entropy: 0.8073 Zodiac
+Training sample 1766 with entropy: 0.9191 Zodiac
+Training sample 1767 with entropy: 0.9805 Zodiac
+Training sample 1768 with entropy: 1.5129 Zodiac
+Training sample 1769 with entropy: 1.4070 Zodiac
+Training sample 1770 with entropy: 1.3565 Zodiac
+Training sample 1771 with entropy: 1.1495 Zodiac
+Training sample 1772 with entropy: 1.4391 Zodiac
+Training sample 1773 with entropy: 1.0957 Zodiac
+Training sample 1774 with entropy: 0.7523 Zodiac
+Training sample 1775 with entropy: 0.9815 Zodiac
+Training sample 1776 with entropy: 0.7487 Zodiac
+Training sample 1777 with entropy: 1.5262 Zodiac
+Training sample 1778 with entropy: 0.6275 Zodiac
+Training sample 1779 with entropy: 0.5905 Zodiac
+Training sample 1780 with entropy: 0.4829 Zodiac
+Training sample 1781 with entropy: 0.7622 Zodiac
+Training sample 1782 with entropy: 1.0399 Zodiac
+Training sample 1783 with entropy: 0.5701 Zodiac
+Training sample 1784 with entropy: 0.8777 Zodiac
+Training sample 1785 with entropy: 1.7783 Zodiac
+Training sample 1786 with entropy: 0.8214 Zodiac
+Training sample 1787 with entropy: 1.5696 Zodiac
+Training sample 1788 with entropy: 0.4269 Zodiac
+Training sample 1789 with entropy: 1.1689 Zodiac
+Training sample 1790 with entropy: 1.0971 Zodiac
+Training sample 1791 with entropy: 0.8466 Zodiac
+Training sample 1792 with entropy: 1.2618 Zodiac
+Training sample 1793 with entropy: 0.7970 Zodiac
+Training sample 1794 with entropy: 0.1666 Zodiac
+Training sample 1795 with entropy: 0.4000 Zodiac
+Training sample 1796 with entropy: 0.7284 Zodiac
+Training sample 1797 with entropy: 0.3846 Zodiac
+Training sample 1798 with entropy: 0.1829 Zodiac
+Training sample 1799 with entropy: 0.5217 Zodiac
+Training sample 1800 with entropy: 0.6818 Zodiac
+Validation sample 1 with entropy: 1.2402 Cargo
+Validation sample 2 with entropy: 1.3499 Cargo
+Validation sample 3 with entropy: 1.4005 Cargo
+Validation sample 4 with entropy: 1.3398 Cargo
+Validation sample 5 with entropy: 1.1918 Cargo
+Validation sample 6 with entropy: 1.2052 Cargo
+Validation sample 7 with entropy: 1.0907 Cargo
+Validation sample 8 with entropy: 0.9757 Cargo
+Validation sample 9 with entropy: 0.8933 Cargo
+Validation sample 10 with entropy: 1.2245 Cargo
+Validation sample 11 with entropy: 1.5745 Cargo
+Validation sample 12 with entropy: 1.8470 Cargo
+Validation sample 13 with entropy: 1.7816 Cargo
+Validation sample 14 with entropy: 1.7550 Cargo
+Validation sample 15 with entropy: 1.5234 Cargo
+Validation sample 16 with entropy: 1.1735 Cargo
+Validation sample 17 with entropy: 1.1315 Cargo
+Validation sample 18 with entropy: 1.4123 Cargo
+Validation sample 19 with entropy: 1.3990 Cargo
+Validation sample 20 with entropy: 1.7635 Cargo
+Validation sample 21 with entropy: 0.5872 Coast Guard Response Boat
+Validation sample 22 with entropy: 0.0478 Coast Guard Response Boat
+Validation sample 23 with entropy: 1.2167 Coast Guard Response Boat
+Validation sample 24 with entropy: 0.5123 Coast Guard Response Boat
+Validation sample 25 with entropy: 1.9806 Coast Guard Response Boat
+Validation sample 26 with entropy: 1.5132 Coast Guard Response Boat
+Validation sample 27 with entropy: 1.6992 Coast Guard Response Boat
+Validation sample 28 with entropy: 1.1314 Coast Guard Response Boat
+Validation sample 29 with entropy: 0.1744 Coast Guard Response Boat
+Validation sample 30 with entropy: 0.5093 Coast Guard Response Boat
+Validation sample 31 with entropy: 0.3413 Coast Guard Response Boat
+Validation sample 32 with entropy: 0.1056 Coast Guard Response Boat
+Validation sample 33 with entropy: 1.6924 Coast Guard Response Boat
+Validation sample 34 with entropy: 1.5964 Coast Guard Response Boat
+Validation sample 35 with entropy: 1.6631 Coast Guard Response Boat
+Validation sample 36 with entropy: 1.4090 Coast Guard Response Boat
+Validation sample 37 with entropy: 0.4439 Coast Guard Response Boat
+Validation sample 38 with entropy: 0.5927 Coast Guard Response Boat
+Validation sample 39 with entropy: 0.3613 Coast Guard Response Boat
+Validation sample 40 with entropy: 0.2933 Coast Guard Response Boat
+Validation sample 41 with entropy: 1.7878 Commercial Shipping Vessel
+Validation sample 42 with entropy: 2.1261 Commercial Shipping Vessel
+Validation sample 43 with entropy: 2.1263 Commercial Shipping Vessel
+Validation sample 44 with entropy: 1.1775 Commercial Shipping Vessel
+Validation sample 45 with entropy: 1.9658 Commercial Shipping Vessel
+Validation sample 46 with entropy: 1.5196 Commercial Shipping Vessel
+Validation sample 47 with entropy: 1.0935 Commercial Shipping Vessel
+Validation sample 48 with entropy: 1.6667 Commercial Shipping Vessel
+Validation sample 49 with entropy: 2.0319 Commercial Shipping Vessel
+Validation sample 50 with entropy: 1.5284 Commercial Shipping Vessel
+Validation sample 51 with entropy: 1.6628 Commercial Shipping Vessel
+Validation sample 52 with entropy: 0.8931 Commercial Shipping Vessel
+Validation sample 53 with entropy: 1.8757 Commercial Shipping Vessel
+Validation sample 54 with entropy: 1.9156 Commercial Shipping Vessel
+Validation sample 55 with entropy: 1.8455 Commercial Shipping Vessel
+Validation sample 56 with entropy: 1.2293 Commercial Shipping Vessel
+Validation sample 57 with entropy: 0.4108 Commercial Shipping Vessel
+Validation sample 58 with entropy: 0.4537 Commercial Shipping Vessel
+Validation sample 59 with entropy: 1.3580 Commercial Shipping Vessel
+Validation sample 60 with entropy: 1.7576 Commercial Shipping Vessel
+Validation sample 61 with entropy: 0.0899 Destroyer
+Validation sample 62 with entropy: 0.1378 Destroyer
+Validation sample 63 with entropy: 0.1687 Destroyer
+Validation sample 64 with entropy: 0.0785 Destroyer
+Validation sample 65 with entropy: 1.1713 Destroyer
+Validation sample 66 with entropy: 1.4790 Destroyer
+Validation sample 67 with entropy: 0.5028 Destroyer
+Validation sample 68 with entropy: 0.5149 Destroyer
+Validation sample 69 with entropy: 0.5257 Destroyer
+Validation sample 70 with entropy: 0.3108 Destroyer
+Validation sample 71 with entropy: 1.0288 Destroyer
+Validation sample 72 with entropy: 0.2986 Destroyer
+Validation sample 73 with entropy: 0.2863 Destroyer
+Validation sample 74 with entropy: 0.2109 Destroyer
+Validation sample 75 with entropy: 0.1313 Destroyer
+Validation sample 76 with entropy: 0.1528 Destroyer
+Validation sample 77 with entropy: 0.5809 Destroyer
+Validation sample 78 with entropy: 0.1294 Destroyer
+Validation sample 79 with entropy: 0.0751 Destroyer
+Validation sample 80 with entropy: 0.2088 Destroyer
+Validation sample 81 with entropy: 1.4007 SAM System
+Validation sample 82 with entropy: 1.0599 SAM System
+Validation sample 83 with entropy: 1.3333 SAM System
+Validation sample 84 with entropy: 1.5439 SAM System
+Validation sample 85 with entropy: 1.2442 SAM System
+Validation sample 86 with entropy: 1.4090 SAM System
+Validation sample 87 with entropy: 1.1132 SAM System
+Validation sample 88 with entropy: 1.0147 SAM System
+Validation sample 89 with entropy: 0.9110 SAM System
+Validation sample 90 with entropy: 1.0834 SAM System
+Validation sample 91 with entropy: 1.3642 SAM System
+Validation sample 92 with entropy: 1.7940 SAM System
+Validation sample 93 with entropy: 0.9354 SAM System
+Validation sample 94 with entropy: 0.9140 SAM System
+Validation sample 95 with entropy: 1.1648 SAM System
+Validation sample 96 with entropy: 1.2273 SAM System
+Validation sample 97 with entropy: 1.1927 SAM System
+Validation sample 98 with entropy: 1.6128 SAM System
+Validation sample 99 with entropy: 0.9758 SAM System
+Validation sample 100 with entropy: 0.8785 SAM System
+Validation sample 101 with entropy: 0.9765 SUV
+Validation sample 102 with entropy: 1.6370 SUV
+Validation sample 103 with entropy: 1.8059 SUV
+Validation sample 104 with entropy: 1.8216 SUV
+Validation sample 105 with entropy: 2.0974 SUV
+Validation sample 106 with entropy: 0.4292 SUV
+Validation sample 107 with entropy: 0.5409 SUV
+Validation sample 108 with entropy: 1.0184 SUV
+Validation sample 109 with entropy: 0.3406 SUV
+Validation sample 110 with entropy: 1.2762 SUV
+Validation sample 111 with entropy: 1.5329 SUV
+Validation sample 112 with entropy: 1.0105 SUV
+Validation sample 113 with entropy: 0.5985 SUV
+Validation sample 114 with entropy: 0.9225 SUV
+Validation sample 115 with entropy: 1.1863 SUV
+Validation sample 116 with entropy: 1.6512 SUV
+Validation sample 117 with entropy: 0.0342 SUV
+Validation sample 118 with entropy: 0.1736 SUV
+Validation sample 119 with entropy: 0.2117 SUV
+Validation sample 120 with entropy: 0.1165 SUV
+Validation sample 121 with entropy: 0.2479 Sailboat
+Validation sample 122 with entropy: 0.8840 Sailboat
+Validation sample 123 with entropy: 0.7333 Sailboat
+Validation sample 124 with entropy: 1.7999 Sailboat
+Validation sample 125 with entropy: 0.3620 Sailboat
+Validation sample 126 with entropy: 0.7552 Sailboat
+Validation sample 127 with entropy: 1.3137 Sailboat
+Validation sample 128 with entropy: 1.3979 Sailboat
+Validation sample 129 with entropy: 1.4900 Sailboat
+Validation sample 130 with entropy: 0.2281 Sailboat
+Validation sample 131 with entropy: 0.3786 Sailboat
+Validation sample 132 with entropy: 0.3466 Sailboat
+Validation sample 133 with entropy: 1.8122 Sailboat
+Validation sample 134 with entropy: 1.6976 Sailboat
+Validation sample 135 with entropy: 1.0718 Sailboat
+Validation sample 136 with entropy: 0.9413 Sailboat
+Validation sample 137 with entropy: 0.3053 Sailboat
+Validation sample 138 with entropy: 0.4994 Sailboat
+Validation sample 139 with entropy: 1.9609 Sailboat
+Validation sample 140 with entropy: 2.0128 Sailboat
+Validation sample 141 with entropy: 1.7473 Sedan
+Validation sample 142 with entropy: 0.8587 Sedan
+Validation sample 143 with entropy: 0.5492 Sedan
+Validation sample 144 with entropy: 1.6181 Sedan
+Validation sample 145 with entropy: 1.3974 Sedan
+Validation sample 146 with entropy: 0.7489 Sedan
+Validation sample 147 with entropy: 0.8131 Sedan
+Validation sample 148 with entropy: 1.4876 Sedan
+Validation sample 149 with entropy: 0.8995 Sedan
+Validation sample 150 with entropy: 1.6425 Sedan
+Validation sample 151 with entropy: 1.1181 Sedan
+Validation sample 152 with entropy: 1.6113 Sedan
+Validation sample 153 with entropy: 0.7558 Sedan
+Validation sample 154 with entropy: 0.7138 Sedan
+Validation sample 155 with entropy: 1.9355 Sedan
+Validation sample 156 with entropy: 1.0822 Sedan
+Validation sample 157 with entropy: 1.0618 Sedan
+Validation sample 158 with entropy: 0.9606 Sedan
+Validation sample 159 with entropy: 0.7708 Sedan
+Validation sample 160 with entropy: 1.2644 Sedan
+Validation sample 161 with entropy: 1.2629 Tank
+Validation sample 162 with entropy: 1.4778 Tank
+Validation sample 163 with entropy: 1.4958 Tank
+Validation sample 164 with entropy: 1.3675 Tank
+Validation sample 165 with entropy: 1.1658 Tank
+Validation sample 166 with entropy: 1.2132 Tank
+Validation sample 167 with entropy: 1.1621 Tank
+Validation sample 168 with entropy: 0.9348 Tank
+Validation sample 169 with entropy: 2.0045 Tank
+Validation sample 170 with entropy: 1.2593 Tank
+Validation sample 171 with entropy: 0.6007 Tank
+Validation sample 172 with entropy: 1.0517 Tank
+Validation sample 173 with entropy: 1.9152 Tank
+Validation sample 174 with entropy: 1.5521 Tank
+Validation sample 175 with entropy: 2.1548 Tank
+Validation sample 176 with entropy: 2.1506 Tank
+Validation sample 177 with entropy: 1.5982 Tank
+Validation sample 178 with entropy: 1.6126 Tank
+Validation sample 179 with entropy: 1.3090 Tank
+Validation sample 180 with entropy: 1.4845 Tank
+Validation sample 181 with entropy: 0.8515 Zodiac
+Validation sample 182 with entropy: 0.5722 Zodiac
+Validation sample 183 with entropy: 0.6837 Zodiac
+Validation sample 184 with entropy: 1.6842 Zodiac
+Validation sample 185 with entropy: 1.1869 Zodiac
+Validation sample 186 with entropy: 1.7498 Zodiac
+Validation sample 187 with entropy: 0.2846 Zodiac
+Validation sample 188 with entropy: 1.8999 Zodiac
+Validation sample 189 with entropy: 1.5721 Zodiac
+Validation sample 190 with entropy: 1.2924 Zodiac
+Validation sample 191 with entropy: 1.3478 Zodiac
+Validation sample 192 with entropy: 1.0369 Zodiac
+Validation sample 193 with entropy: 1.0455 Zodiac
+Validation sample 194 with entropy: 1.3113 Zodiac
+Validation sample 195 with entropy: 0.3451 Zodiac
+Validation sample 196 with entropy: 0.8918 Zodiac
+Validation sample 197 with entropy: 0.8482 Zodiac
+Validation sample 198 with entropy: 1.1086 Zodiac
+Validation sample 199 with entropy: 1.1491 Zodiac
+Validation sample 200 with entropy: 1.0618 Zodiac
